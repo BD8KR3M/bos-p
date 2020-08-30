@@ -1,10 +1,10 @@
 <h3 style="color:red"> Tool Made:Abm Mujahid</h3>
 <br>
-Tool Install:
-pkg update -y
-pkg install git php bash curl openssh wget -y
+Tool Install:<br>
+pkg update -y<br>
+pkg install git php bash curl openssh wget -y<br>
 
-git clone https://github.com/hat-abm/bos-p.git
+git clone https://github.com/hat-abm/bos-p.git<br>
 
 cd bos-p
 
