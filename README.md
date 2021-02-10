@@ -19,7 +19,7 @@ cd bos-p
 
 chmod +x *
 
-bash boss-p.sh
+bash bos-p.sh
 
 <h2>Ok Enjoy The Tool </h2>
 <h3>Follow Me:</h3>
