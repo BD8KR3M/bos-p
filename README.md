@@ -7,25 +7,25 @@
 
 <br>
 
-<h3 style="color:red"> Tool Made:Abm Mujahid</h3>
+<h3 style="color:red"> Tool Make By:Abm Mujahid</h3>
 <br>
 Tool Install:<br>
 pkg update -y<br>
 pkg install git php bash curl openssh wget -y<br>
 
-git clone https://github.com/hat-abm/bos-p.git<br>
+git clone https://github.com/bd8kr3m/bos-p.git<br>
 
 cd bos-p
 
-chomd +x *
+chmod +x *
 
 bash boss-p.sh
 
 <h2>Ok Enjoy The Tool </h2>
 <h3>Follow Me:</h3>
 Facebook:https://m.Facebook.com/hackerabm<br>
-YouTube:https://YouTube.com/TermuxBangla
+YouTube: suspend 💔
 <br>
-<h1> Subscribe</h1> 
+<h1> Don't Copy My Script </h1> 
 
 <br>
