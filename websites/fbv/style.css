@@ -1,0 +1,119 @@
+body{
+  background-color: #D4F8E8;
+  border: 4px black solid;
+  padding: 10px;
+  margin: 5px;
+  width: auto;
+  text-align: center;
+}
+.abm1 h1{
+  color: red;
+  font-size: 30px;
+  text-align: center;
+  border: 7px red dotted ;
+  border-radius: 4px;
+  margin-left:2%;
+  margin-right: 2%;
+  margin-top:2% ;
+  padding: 8px;
+  
+  
+}
+
+.table img{
+  
+  width: 300px;
+  border: 4px double black;
+  text-align: center;
+  
+ 
+}
+
+.abm{
+  background-image: url('/img/abm.png');
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 2px solid blue;
+ margin: 0 auto;
+  
+}
+.abm1 p{
+  text-align: center;
+  font-size: 20px;
+  margin: 7% 2% 4% 2%;
+  font-weight: bold;
+  font-family: 'Baloo Da 2', cursive;
+  
+  
+}
+.abm1 h4{
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 24px;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  color: #B80D57;
+  
+}
+
+.abm1 table{
+  background-color: red;
+}
+
+.abm1 h3{
+  text-align: center;
+  font-size: 30px;
+  color: #F50057;
+  margin: 5% 2% 2% 2%;
+  font-family: 'Hind Siliguri', sans-serif;
+  
+}
+.abm1 h2{
+ color: #3E2723;
+ margin: 3% 2% 5% 2%;
+ color: #3E2723;
+}
+
+.abm1 b{
+  font-size: 13px;
+  border: 2px solid red;
+  padding-right: 2px;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+
+.abm2 p{
+  
+  border: 3px solid #FF0084;
+  border-radius: 3%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3%;
+  margin-bottom: 7%;
+  padding-top: 3px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+
+
+  .abm3 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 222px;
+  font-weight: bol;
+  cursor:pointer;
+  background-color:#BD081C ;
+  display: block;margin:0px auto;border-radius:20px;border-color:transparent;height:40px;
+}
+.abm5:hover{
+  color: #0FFF;
+  text-align: center;
+  width: 222px;
+  cursor:pointer;
+  background-color: black;;
+  display: block;margin:0px auto;border-radius:20px;border-color:transparent;height:40px;
+}

