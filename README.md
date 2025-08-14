@@ -1,7 +1,6 @@
 
 ![Screenshot_20200830-125319](https://user-images.githubusercontent.com/57522482/92686224-c0f8e580-f328-11ea-94a1-5cdf13503836.png)
 <br>
-![Screenshot_20200902-190322](https://user-images.githubusercontent.com/57522482/92684934-2dbeb080-f326-11ea-8975-0695bd306723.png)
 
 
 
